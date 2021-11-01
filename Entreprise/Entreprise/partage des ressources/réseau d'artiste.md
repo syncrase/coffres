@@ -1,0 +1,1 @@
+Ensemble de tous ceux qui travaillent dans le [[cycle fermé des ressources]]

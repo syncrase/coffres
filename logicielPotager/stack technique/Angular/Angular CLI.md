@@ -1,0 +1,1 @@
+Pour utiliser la commande de génération il faut se trouver dans le répertoire app/

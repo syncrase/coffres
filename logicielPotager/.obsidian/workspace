@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "9fe54f19b3556488",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f89586a88930f5f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "stack technique/Angular/Angular.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2531cdbd371639f",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bb8f5bb033ab6d",
+        "type": "tabs",
+        "dimension": 75.05391804457226,
+        "children": [
+          {
+            "id": "9461ae8f1816bac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89e368dfefceba26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tmp/spring.log",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d138c35b6700d5c",
+        "type": "tabs",
+        "dimension": 24.946081955427747,
+        "children": [
+          {
+            "id": "f0a0dcffb1052dae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "2fee9eb7dbcc8842",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0297585fa7d890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "437b3ea5726aea1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "stack technique/Angular/Angular.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0d8046cb1df43eb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "stack technique/Angular/Angular.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ebf94e9406d5e683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "901864a73fb5b064",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "stack technique/Angular/Angular.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "active": "3f89586a88930f5f",
+  "lastOpenFiles": [
+    "stack technique/Angular/Angular.md",
+    "stack technique/Angular/Angular CLI.md",
+    "Introduction.md",
+    "stack technique/Liquibase.md",
+    "stack technique/base de données/Cassandra/Cassandra avec Docker.md",
+    "stack technique/docker/Docker.md",
+    "stack technique/jhipster/multi-application.md",
+    "stack technique/docker/docker-compose.md",
+    "stack technique/jhipster/Base de données/Angular, gateway et registre avec PostgreSQL.md",
+    "TODO.md"
+  ]
+}

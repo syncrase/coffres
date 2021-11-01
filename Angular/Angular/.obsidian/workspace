@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "1a0eaaae1e3d1556",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec33379432ef8d88",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31d21287795f8d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c6b118d5bed978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95017665997665aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d13fb9d5447800b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "outlet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bfec16100e5eeb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4abab5dbeb24dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "873337ca29ba1b17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cc8f72469215f7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5320561553693764",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85b3ad09dd0de61f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ec33379432ef8d88",
+  "lastOpenFiles": [
+    "Resolver.md",
+    "Routes.md",
+    "Router outlet.md",
+    "NgModule.md",
+    "Generate module.md",
+    "Angular CLI.md",
+    "Router.md",
+    "Guard.md",
+    "CanLoad.md",
+    "CanActivateChild.md"
+  ]
+}

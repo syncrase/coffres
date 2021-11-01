@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "66a1bf922e267e77",
+    "type": "split",
+    "children": [
+      {
+        "id": "824632c45a7330be",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "e0838201fc759dd7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "partage des ressources/système de partage de voitures.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2199f033ec1a9e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "c115e9bdcf021ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea36a09ac6c1a3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "428918ed48877c31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f22bda0bef0bed72",
+    "type": "split",
+    "children": [
+      {
+        "id": "3affd070d50a55b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace2baa0fd167a44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "824632c45a7330be",
+  "lastOpenFiles": [
+    "partage des ressources/système de partage de voitures.md",
+    "oeuvre.md",
+    "Maison de repos/Sans titre.md",
+    "Sans titre.md",
+    "artistes ouvriers.md",
+    "voitures en cycle fermé.md",
+    "cycle fermé des ressources.md",
+    "forges.md",
+    "réseau d'artiste.md",
+    "système de partage des ressources.md"
+  ]
+}

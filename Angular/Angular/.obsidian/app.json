@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "promptDelete": false
+}

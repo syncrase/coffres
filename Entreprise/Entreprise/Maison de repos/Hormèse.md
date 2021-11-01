@@ -1,0 +1,1 @@
+L'hormèse est disponible est conseillée pour tous : respiration, froid, haute inentsitée, jeûne

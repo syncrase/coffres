@@ -1,0 +1,1 @@
+L'artiste ouvrier doit pouvoir assembler sa voiture reconditionnée partant d'un ensemble de pièces détachées. Il les retravaillent avec l'aide des autres artistes avec la conscience d'augmenter l'expérience du Métier par la collaroration systématique.

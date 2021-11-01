@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "59463387833243ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c10f4053504fc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Système/Unix lifecycle.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4ac999b3e446fb04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Système/Init script.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "715d65e37d4a9feb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Système/Environnement.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb8219c8949a8b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e2e82ecc89fe84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c3d24dfe2bb9410",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b601bb95e9113580",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd877ac226dd15ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb38be97f2fa97a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25770da6163470b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Système/Environnement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "715d65e37d4a9feb",
+  "lastOpenFiles": [
+    "Système/Sans titre.md",
+    "Système/Init system.md",
+    "Système/Init script.md",
+    "Init system.md",
+    "Configuration système.md",
+    "Sans titre.md",
+    "Unix lifecycle.md"
+  ]
+}

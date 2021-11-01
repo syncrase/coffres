@@ -1,0 +1,1 @@
+[Jib](https://github.com/GoogleContainerTools/jib/tree/master/jib-maven-plugin#configuration) est un plugin [[Maven]] qui permet de construire des image [[Docker]]

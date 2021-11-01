@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b7aca329ccca5071",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5de6649c977b648",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30d0ae14721c194d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4437f988d0986863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "119ce1fccc08f00a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7961dbd365f7c106",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "feed",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca2d169e23f8175f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c6e4bd62e6c66b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a200527e95c63fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e5de6649c977b648",
+  "lastOpenFiles": [
+    "Deep learning.md",
+    "Réseaux/Réseau de neurones.md",
+    "Réseaux/Feed-Forward.md",
+    "Notions/coefficient.md",
+    "Notions/Biais.md",
+    "Réseaux/Réseaux convolutionnels.md",
+    "Réseaux/Sans titre.md",
+    "Réseaux/Perceptron multicouche.md",
+    "Apprentissage/Apprentissage adverse.md",
+    "Problématiques & notions/Rétropropagation du gradient.md"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "dc10e28f0deaed16",
+    "type": "split",
+    "children": [
+      {
+        "id": "e67493c8ca305a40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Neutropénie.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c71dbf58a124f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "427a86715eac48af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4054a3b922b33737",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27839c26ab2c970b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfdf2506ae236571",
+    "type": "split",
+    "children": [
+      {
+        "id": "059cf23ead597fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba970c18d266f45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neutropénie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e67493c8ca305a40",
+  "lastOpenFiles": [
+    "Neutropénie.md",
+    "Untitled.md"
+  ]
+}
