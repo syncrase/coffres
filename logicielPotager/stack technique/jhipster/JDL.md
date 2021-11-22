@@ -4,7 +4,7 @@
 A partir d'un JDL, le ou les projets sont générés avec cette commance
 `jhipster jdl my_file.jdl`
 
-# Problème en ajoutant l'option `filter *`
+# Problème en ajoutant l'option 'filter *' 
 
 Symptôme : Les classes <Entity_> n'existent pas.
 
@@ -22,3 +22,12 @@ Un nouveau problème arrive dans les tests, des mapperImpl doivent être instanc
 
 ## Solution
 Il faut installer le plugin 'm2e-apt' qui prend en charge automatiquement la config des java annotations processing ainsi que MapStruct Eclipse Plugin.
+
+# Regénérer le projet
+
+Le problème vient du fait que le modèles dans le package domain ne sont pas régénérés
+
+1 - suppression des projets avec yo-rc, .jhipster, etc.
+2 - jhipster jdl my_jdl.jdl
+3 - ./mvnw -ntp -Pprod verify jib:dockerBuild dans les répertoire des projets
+après avoir régénéré l'application il faut cherry pick les commit de correction

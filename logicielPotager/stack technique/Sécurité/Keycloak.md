@@ -1,5 +1,7 @@
 
 
+pour activer le keycloak dans l'architecture microservice il faut mettre authenticationType = oauth2
+
 [Documentation](https://www.keycloak.org/)
 [Documentation authorization](https://www.keycloak.org/docs/4.8/authorization_services/)
 
@@ -46,12 +48,12 @@ Sur le gateway, lors de la tentative d'authentification :
 - les logs donnent `WARN  [org.keycloak.events] (default task-9) type=LOGIN_ERROR, realmId=jhipster, clientId=web_app, userId=null, ipAddress=172.19.0.1, error=invalid_redirect_uri, redirect_uri=http://172.19.0.4:8080/login/oauth2/code/oidc`
 
 L'url de la page d'erreur est la suivante :
-http://keycloak:9080/auth/realms/jhipster/protocol/openid-connect/auth
+`http://keycloak:9080/auth/realms/jhipster/protocol/openid-connect/auth
 ?response_type=code
 &client_id=web_app
 &scope=openid%20address%20email%20jhipster%20microprofile-jwt%20offline_access%20phone%20profile%20roles%20web-origins
 &state=FDPIAY6DLeVyahlyYpjSjejoKQVxnmIQcIqlywRRO3s%3D
-&redirect_uri=http://172.19.0.4:8080/login/oauth2/code/oidc&nonce=MQ5c6YWWKGiVVSVpN2LYHBAE4NIqvILAwF5m9Vd1UQ8
+&redirect_uri=http://172.19.0.4:8080/login/oauth2/code/oidc&nonce=MQ5c6YWWKGiVVSVpN2LYHBAE4NIqvILAwF5m9Vd1UQ8`
 
 Quand on va voir du côté de la config keycloak "Clients > web_app", dans le champs "valid redirect URIs" j'ai ajouté
 `http://172.19.0.4:8080/login/oauth2/code/*`
@@ -61,3 +63,8 @@ je modifie donc la ligne à
 `http://172.19.0.4:8080/*`
 
 Problème résolu
+
+# Impossible de se connecter au registre
+
+Après avoir saisi les credentials admin/admin, la navigation reste bloqué sur l'url
+`http://keycloak:9080/auth/realms/jhipster/login-actions/authenticate?client_id=jhipster-registry&tab_id=7ZOGQPkTYpc`

@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "9fe54f19b3556488",
+    "id": "2a80e1088799b03a",
     "type": "split",
     "children": [
       {
-        "id": "3f89586a88930f5f",
+        "id": "4f08ce333a5807f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stack technique/Angular/Angular.md",
+            "file": "stack technique/jhipster/multi-application.md",
             "mode": "source"
           }
         }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2d138c35b6700d5c",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stack technique/Angular/Angular.md",
+                "file": "stack technique/jhipster/multi-application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stack technique/Angular/Angular.md",
+                "file": "stack technique/jhipster/multi-application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stack technique/Angular/Angular.md"
+                "file": "stack technique/jhipster/multi-application.md"
               }
             }
           }
@@ -132,17 +133,17 @@
     "direction": "horizontal",
     "width": 211.5
   },
-  "active": "3f89586a88930f5f",
+  "active": "4f08ce333a5807f5",
   "lastOpenFiles": [
-    "stack technique/Angular/Angular.md",
-    "stack technique/Angular/Angular CLI.md",
-    "Introduction.md",
-    "stack technique/Liquibase.md",
-    "stack technique/base de données/Cassandra/Cassandra avec Docker.md",
-    "stack technique/docker/Docker.md",
     "stack technique/jhipster/multi-application.md",
     "stack technique/docker/docker-compose.md",
-    "stack technique/jhipster/Base de données/Angular, gateway et registre avec PostgreSQL.md",
-    "TODO.md"
+    "stack technique/jhipster/Lancement avec docker.md",
+    "stack technique/docker/Docker.md",
+    "stack technique/NPM.md",
+    "stack technique/jhipster/JDL.md",
+    "stack technique/Sécurité/Keycloak.md",
+    "stack technique/jhipster/Jhipster.md",
+    "stack technique/jhipster/Microservice.md",
+    "stack technique/base de données/postgreSQL/postgreSQL.md"
   ]
 }

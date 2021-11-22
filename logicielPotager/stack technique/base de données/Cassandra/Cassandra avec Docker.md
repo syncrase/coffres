@@ -10,3 +10,6 @@ Exemple : `$ sudo docker run --name cassandraSyncrase --network bridge -d cassan
 (
 Démarrer un nouveau container à partir de l'original et y exécuter cqlsh `$ docker run -it --network bridge --rm cassandra cqlsh cassandraSyncrase`
 )
+
+https://blog.ippon.tech/using-docker-to-simplify-cassandra-development-in-jhipster/
+

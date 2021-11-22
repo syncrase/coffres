@@ -46,7 +46,7 @@ logstash API 9600
 et en essayant d'exécuter les commandes de Jib j'ai l'erreur suivante
 `ERROR in ch.qos.logback.core.rolling.RollingFileAppender[FILE] - openFile(/tmp/spring.log,true) call failed. java.io.FileNotFoundException: /tmp/spring.log (Permission non accordée)`
 
-Dans les logs juste au dessus de la 1ière erreur on vois l'import de base.xml qui déclare spring.log
+Dans les logs juste au dessus de la 1ière erreur on voit l'import de base.xml qui déclare spring.log
 En le supprimant on obtient l'erreur suivante
 `Could not find an appender named [CONSOLE]. Did you define it below instead of above in the configuration file?`
 
@@ -71,3 +71,36 @@ Tout se lance comme il faut mais le gateway crache car il ne trouve pas le regis
 Qui lui-même a crashé car il n'a pas trouvé le keycloak car il n'avais pas encore fini de s'initialiser.
 
 Solution : définir les dépendances dans `docker-compose.yml`
+
+
+# Lancer séparément les projets les uns après les autres
+
+Dans le docker-compose généré, il faut récupérer les noms de domaine utilisés pour les ajouter dans le /etc/hosts
+Exemple:
+`
+127.0.0.1       keycloak
+127.0.0.1       jhipster-registry
+127.0.0.1       jhipster-logstash
+127.0.0.1       microservice-postgresql
+`
+Démarrer les containers avec docker-compose
+Postgresql doit être celui du microservice
+`sudo docker-compose -f src/main/docker/postgresql.yml up -d`
+Et lancer le microservice avec le maven wrapped
+`./mvnw`
+
+Puis la base de données du front. Pour lancer les deux bases de données sur la local il faut distinguer les port dans les postgre.yml ainsi que dans les configuration du projet
+puis le front `sudo ./mvnw`
+
+
+# Ne lancer séparément que les projets JHipster
+
+docker-compose sur le yml dont on a retiré les projets front, back et leurs base de données
+
+Exécuter les base de données définies dans le répertoire src/main/docker
+Pour pouvoir exécuter les deux bases en local il faut redéfinir le port de l'une d'entre elle dans le src/main/docker/postgre.yml et dans le src/main/resources/application-dev.yml
+
+lancer les projet jhipster à la main
+
+
+

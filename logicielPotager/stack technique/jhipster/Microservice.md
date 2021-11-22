@@ -9,4 +9,5 @@ Lancer le app.yml avec docker-compose
 [[Docker#Manipulation des containers]] : Pour exécuter une commande dans le container
 
 
+https://hub.docker.com/r/jhipster/jhipster-sample-app-microservice
 

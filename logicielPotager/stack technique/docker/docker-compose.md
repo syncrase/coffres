@@ -46,3 +46,37 @@ Rebuild des images avec Jib
 `sudo ./mvnw package -Pprod verify jib:dockerBuild`
 Si erreur à cause du fichier /tmp/spring.log cf. [[multi-application#Problème de génération d'image]]
 ==> Toutes les images nécessaires sont téléchargées
+
+# Version
+
+Spécifier la nouvelle version dans le docker-compose.yml : version: '3.8'
+Erreur à l'exécution de la commande : `sudo docker-compose up -d`
+
+`ERROR: Version in "./docker-compose.yml" is unsupported. You might be seeing this error because you're using the wrong Compose file version. Either specify a supported version (e.g "2.2" or "3.3") and place your service definitions under the 'services' key, or omit the 'version' key and place your service definitions at the root of the file to use version 1.
+For more on the Compose file format versions, see https://docs.docker.com/compose/compose-file/
+`
+
+Solution 
+```shell
+// First, remove the old version:
+
+//STEP- 1
+// If installed via apt-get
+sudo apt-get remove docker-compose
+// If installed via curl
+sudo rm /usr/local/bin/docker-compose
+//If installed via pip
+pip uninstall docker-compose
+
+// STEP-2 GET LATEST VERSION
+// curl + grep
+VERSION=$(curl --silent https://api.github.com/repos/docker/compose/releases/latest | grep -Po '"tag_name": "\K.*\d')
+
+// FINAL_STEP Install and make it executeable
+DESTINATION=/usr/local/bin/docker-compose
+sudo curl -L https://github.com/docker/compose/releases/download/${VERSION}/docker-compose-$(uname -s)-$(uname -m) -o $DESTINATION
+sudo chmod 755 $DESTINATION
+
+// for docker-compose 3.9 
+// https://docs.docker.com/compose/compose-file/compose-file-v3/#resources
+```

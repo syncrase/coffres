@@ -51,5 +51,6 @@ Exemple de commandes internes à PostgreSQL :
 - `psql <db_name>`
 
 # Manipulation des cluster
+## Arrêt d'un cluster
 `pg_ctlcluster 12 main stop` propose de plutôt lancer la commande suivante `sudo systemctl stop postgresql@12-main`
 (Warning: stopping the cluster using pg_ctlcluster will mark the systemd unit as failed. Consider using systemctl:)

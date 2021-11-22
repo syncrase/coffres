@@ -39,6 +39,9 @@ Démarrer un cluster existant : `$ docker start -a some-name --network some-netw
 - `$ sudo docker network ls` : liste les réseaux
 - `$ sudo docker network inspect <network ID>` : inspecte un réseau
 
+à voir à propos des réseaux
+https://cloudkul.com/blog/understanding-communication-docker-containers/
+
 ## Les containers
 ### Lister
 - `sudo docker container ps` : liste les containers en cours d'exécution
@@ -80,3 +83,10 @@ Démarrer un cluster existant : `$ docker start -a some-name --network some-netw
 
 # Docker dans vscode
 TODO utiliser l'extension vscode 'Docker Extension'
+
+# Docker development lifecycle
+
+live reload https://panigrahi-pratap.medium.com/spring-boot-live-reload-with-docker-db585fcca37f
+
+https://www.google.com/search?channel=fs&client=ubuntu&q=develop+inside+docker+container
+
