@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stack technique/jhipster/multi-application.md",
+            "file": "stack technique/jhipster/JDL.md",
             "mode": "source"
           }
         }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2d138c35b6700d5c",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stack technique/jhipster/multi-application.md",
+                "file": "stack technique/jhipster/JDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stack technique/jhipster/multi-application.md",
+                "file": "stack technique/jhipster/JDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stack technique/jhipster/multi-application.md"
+                "file": "stack technique/jhipster/JDL.md"
               }
             }
           }
@@ -135,15 +134,15 @@
   },
   "active": "4f08ce333a5807f5",
   "lastOpenFiles": [
+    "stack technique/jhipster/JDL.md",
+    "stack technique/base de données/postgreSQL/postgreSQL.md",
     "stack technique/jhipster/multi-application.md",
     "stack technique/docker/docker-compose.md",
     "stack technique/jhipster/Lancement avec docker.md",
     "stack technique/docker/Docker.md",
     "stack technique/NPM.md",
-    "stack technique/jhipster/JDL.md",
     "stack technique/Sécurité/Keycloak.md",
     "stack technique/jhipster/Jhipster.md",
-    "stack technique/jhipster/Microservice.md",
-    "stack technique/base de données/postgreSQL/postgreSQL.md"
+    "stack technique/jhipster/Microservice.md"
   ]
 }
