@@ -5,6 +5,12 @@
 `$ sudo apt  install docker`
 `$ sudo apt  install docker-compose`
 
+Ajouter de l'utilisateur courant au groupe utilisateur de docker
+Crée le groupe (normalement existe déjà)
+` sudo groupadd docker`
+Ajouter le $user au groupe
+`sudo usermod -aG docker $USER`
+ 
 Démarrer un nouveau cluster : `$ docker run --name some-name --network some-network -d image:tag` ^9da9a6
 
 Démarrer un cluster existant : `$ docker start -a some-name --network some-network -d image:tag`

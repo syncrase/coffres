@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "2a80e1088799b03a",
+    "id": "c49e6d9e8b048666",
     "type": "split",
     "children": [
       {
-        "id": "4f08ce333a5807f5",
+        "id": "b4cdbe69abdb0884",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "stack technique/jhipster/JDL.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d2531cdbd371639f",
+    "id": "6de4f003765bcd8c",
     "type": "split",
     "children": [
       {
-        "id": "05bb8f5bb033ab6d",
+        "id": "53dc13b358441a9e",
         "type": "tabs",
-        "dimension": 75.05391804457226,
         "children": [
           {
-            "id": "9461ae8f1816bac8",
+            "id": "eafd19734f4912e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "89e368dfefceba26",
+            "id": "f05388b3dfbb0be6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tmp/spring.log",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,14 +46,48 @@
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bfda64c5e6a73db",
+    "type": "split",
+    "children": [
       {
-        "id": "2d138c35b6700d5c",
+        "id": "a37fa20323056d6f",
         "type": "tabs",
-        "dimension": 24.946081955427747,
         "children": [
           {
-            "id": "f0a0dcffb1052dae",
+            "id": "f408ba12af40fc64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "693320b343d42737",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8f8863b44e57088",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -66,83 +96,22 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 281.5
-  },
-  "right": {
-    "id": "2fee9eb7dbcc8842",
-    "type": "split",
-    "children": [
-      {
-        "id": "0f0297585fa7d890",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "437b3ea5726aea1e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "stack technique/jhipster/JDL.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           },
           {
-            "id": "0d8046cb1df43eb5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "stack technique/jhipster/JDL.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ebf94e9406d5e683",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "901864a73fb5b064",
+            "id": "ae5bcf55cf368bd4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "stack technique/jhipster/JDL.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "4f08ce333a5807f5",
-  "lastOpenFiles": [
-    "stack technique/jhipster/JDL.md",
-    "stack technique/base de données/postgreSQL/postgreSQL.md",
-    "stack technique/jhipster/multi-application.md",
-    "stack technique/docker/docker-compose.md",
-    "stack technique/jhipster/Lancement avec docker.md",
-    "stack technique/docker/Docker.md",
-    "stack technique/NPM.md",
-    "stack technique/Sécurité/Keycloak.md",
-    "stack technique/jhipster/Jhipster.md",
-    "stack technique/jhipster/Microservice.md"
-  ]
+  "active": "b4cdbe69abdb0884",
+  "lastOpenFiles": []
 }
