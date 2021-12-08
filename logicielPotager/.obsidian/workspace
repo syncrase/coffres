@@ -7,9 +7,25 @@
         "id": "b4cdbe69abdb0884",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "stack technique/jhipster/JDL.md",
+            "mode": "source"
+          }
+        },
+        "group": "ca0217df801c836c"
+      },
+      {
+        "id": "f58c0c521eef1b0b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "stack technique/jhipster/JDL.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ca0217df801c836c"
       }
     ],
     "direction": "vertical"
@@ -36,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "application-dev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "stack technique/jhipster/JDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "stack technique/jhipster/JDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "stack technique/jhipster/JDL.md"
+              }
             }
           }
         ]
@@ -113,5 +133,16 @@
     "collapsed": true
   },
   "active": "b4cdbe69abdb0884",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "stack technique/jhipster/JDL.md",
+    "stack technique/Bash/Shortcuts.md",
+    "stack technique/base de données/Liquibase.md",
+    "stack technique/jhipster/Base de données/Angular, gateway et registre avec PostgreSQL.md",
+    "stack technique/base de données/postgreSQL/Problèmes de connexion.md",
+    "stack technique/jhipster/Base de données/Connexion à Postgre.md",
+    "stack technique/sublimeText/sublime text.md",
+    "stack technique/IntelliJ IDEA/Raccourcis.md",
+    "stack technique/Sécurité/OAuth2.md",
+    "stack technique/Sécurité/Keycloak.md"
+  ]
 }

@@ -102,5 +102,6 @@ Pour pouvoir exécuter les deux bases en local il faut redéfinir le port de l'u
 
 lancer les projet jhipster à la main
 
+# Se connecter à une base de données dans docker
 
 

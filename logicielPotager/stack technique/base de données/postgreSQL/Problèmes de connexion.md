@@ -7,3 +7,5 @@
 
 `Hikari - Exception during pool initialization.`
 `HHH000342: Could not obtain connection to query metadata : FATAL: password authentication failed for user "microservice"`
+
+Solution : valider les informations de connexion dans les configuration (dbname, user, password)

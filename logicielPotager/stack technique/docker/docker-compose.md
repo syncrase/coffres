@@ -3,9 +3,15 @@
 [Doc docker compose](https://docs.docker.com/compose/)
 [Doc docker compose dans jhipster](https://www.jhipster.tech/docker-compose/)
 
+# Installation et réinstallation
+https://docs.docker.com/compose/install/
+
+
+# Les commandes essentielles
  - `$ sudo docker-compose [-f compose_file.yml] up` : Exécuter un compose file
  - `sudo docker-compose logs -f` : afficher les logs du docker-compose en cours
  - `docker-compose -f src/main/docker/app.yml stop`
+
 
 # Mise à jour des images
 Contexte : j'ai deux projets différents dont les sous-projets portent les mêmes noms. Quand je lance le dernier projet, je vois le résultat du premier projet (qui ne contient pas toutes mes modifications).
