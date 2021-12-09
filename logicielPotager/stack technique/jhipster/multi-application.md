@@ -58,10 +58,15 @@ A propos de base.xml, il apparaît à deux endroits, dont la configuration logba
 Comme dans le fichier base.xml apparaît cette property :
 `<property name="LOG_FILE" value="${LOG_FILE:-${LOG_PATH:-${LOG_TEMP:-${java.io.tmpdir:-/tmp}}/}spring.log}"/>`
 
-Solution :
-il faut initialiser l'une des variables.
-Par exemple,
-`<property name="LOG_TEMP" value="./logs"/>`
+### Explications et solutions
+Résumé du problème
+- Le répertoire /tmp/ porte un sticky bit
+- L'application veut ouvrir le fichier spring.log mais impossible à cause du sticky bit
+- Si l'application veut ouvrir ce fichier c'est parceque c'est la configuration par défaut.
+
+Solutions possibles
+- il faut initialiser la variable concerné `<property name="LOG_TEMP" value="./logs"/>`
+- Il faut supprimer le sticky bit /tmp/ (déconseiller de toucher au système)
 
 ## Problème de lancement du tout
 Après la commande de lancement de docker-compose

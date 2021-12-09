@@ -23,11 +23,6 @@ http://keycloak:9080/auth/realms/jhipster/protocol/openid-connect/auth
 
 Test de lancement -> Lors du lancement sans docker compose -> les app bloquent au lancement de jhipster
 
-Révision du JDL -> Modification du jdl en vérifiant les .yo-rc des projets générés séparément via jhipster-cli.
-Les projets générés avec le nouveau JDL se lancent correctement chacun de son côté.
-L'exécution de la commande `sudo ./mvnw -ntp -Pprod verify jib:dockerBuild`
-bloque toujours au niveau des logs `FileNotFoundException: /tmp/spring.log (Permission non accordée)` => même correction
-
 SOLUTION : il faut ajouter la ligne `127.0.0.1 keycloak` au fichier `/etc/hosts`
 
 

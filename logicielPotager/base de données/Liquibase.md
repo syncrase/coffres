@@ -52,7 +52,9 @@ liquibase.exception.ValidationFailedException: Validation Failed:
 Dans le cas où 
 `Connection could not be created to jdbc:postgresql://localhost:5432/plantsMS`
 
-cette configuration est dans le pom
+cette configuration est dans le pom.xml
+
+[RTFD](https://www.jhipster.tech/development/#database-updates-with-the-maven-liquibasediff-goal)
 
 ## Solution 2
 `UPDATE databasechangelog SET md5sum = null`

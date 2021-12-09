@@ -1,0 +1,3 @@
+
+
+**Zabbix ** - solution de surveillance complexe comprenant la collecte de données, l'archivage des données (tendances, compactage, ...), un visualiseur avec des tableaux de bord, des alertes et un certain support de gestion pour les alertes escalades. (jetez un œil à [collectd](https://collectd.org/) , [prometheus](https://prometheus.io/) , [cacti](https://www.cacti.net/) . Ils sont tous capables de recueillir des données)
