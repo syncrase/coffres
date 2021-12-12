@@ -4,6 +4,9 @@
 A partir d'un JDL, le ou les projets sont générés avec cette commance
 `jhipster jdl my_file.jdl`
 
+Pour générer le JDL à partir d'un projet existant 
+`jhipster export-jdl my_file.jdl`
+
 # Problème en ajoutant l'option 'filter *' 
 
 Symptôme : Les classes <Entity_> n'existent pas.
@@ -31,3 +34,18 @@ Le problème vient du fait que le modèles dans le package domain ne sont pas r�
 2 - jhipster jdl my_jdl.jdl
 3 - ./mvnw -ntp -Pprod verify jib:dockerBuild dans les répertoire des projets
 après avoir régénéré l'application il faut cherry pick les commit de correction
+
+# app.yml doesn't exist
+
+# Génération de plusieurs microservices
+
+Quand les options microservice sont positionnées dans l'application,  `microservice <entities> with <microserviceName>`
+doivent être dans le même ordre que la déclaration des applications microservices qui suivent.
+
+# Le JDL ne fonctionne pas sur un projet existant
+
+`Error running generator app: TypeError: Cannot read properties of undefined (reading 'clientFramework')`
+
+Supprimer les répertoires .jhipster et .yo et relancer la commande
+`sudo rm -rf */.yo*`
+`sudo rm -rf */.jhipster`

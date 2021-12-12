@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typescript/Syntaxe.md",
+            "file": "jhipster/JDL.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typescript/Syntaxe.md",
+            "file": "jhipster/JDL.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/tmp/spring.log",
+                "query": "app",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Syntaxe.md",
+                "file": "jhipster/JDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Syntaxe.md",
+                "file": "jhipster/JDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Syntaxe.md"
+                "file": "jhipster/JDL.md"
               }
             }
           }
@@ -134,15 +134,15 @@
   },
   "active": "f58c0c521eef1b0b",
   "lastOpenFiles": [
-    "Typescript/Syntaxe.md",
-    "Git/Hooks.md",
-    "stack technique/Sécurité/Notions génériques.md",
-    "Vizualization IT/Loki.md",
-    "Vizualization IT/Fluentd.md",
-    "Vizualization IT/EFK stack.md",
-    "Vizualization IT/ELK stask.md",
-    "Vizualization IT/Kibana.md",
-    "Vizualization IT/Comparaisons.md",
-    "base de données/Prometheus.md"
+    "jhipster/JDL.md",
+    "jhipster/Manipulation des entités.md",
+    "Sécurité/Notions génériques.md",
+    "Linux/Curl.md",
+    "REST/Appel REST.md",
+    "Git/Fichiers locaux.md",
+    "jhipster/Microservice.md",
+    "jhipster/multi-application.md",
+    "TODO.md",
+    "base de données/Cassandra/Problèmes rencontrés lors de la mise en place du Gateway.md"
   ]
 }
