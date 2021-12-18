@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "a98a8d34a1120bde",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82047a1e09f69c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/tty.md",
+            "mode": "source"
+          }
+        },
+        "group": "791999101cbd9d51"
+      },
+      {
+        "id": "703c0e9cde6e64dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/tty.md",
+            "mode": "preview"
+          }
+        },
+        "group": "791999101cbd9d51"
+      },
+      {
+        "id": "4b03abf062d637c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Commandes clés/Curl.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b0560a831a5e411",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33db573d589ae47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a5e25dab85a09f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd3c022d00ca2275",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31692015736053fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a74c71e7d484bf82",
+    "type": "split",
+    "children": [
+      {
+        "id": "17d99e4146f8bdb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee35bd1e7e58669b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Commandes clés/Curl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8617f828d161725b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Commandes clés/Curl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22b789070c56fa58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65893262bd847395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Commandes clés/Curl.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4b03abf062d637c4",
+  "lastOpenFiles": [
+    "Linux/Commandes clés/Curl.md",
+    "Linux/Commandes clés/Fichiers et dossiers.md",
+    "Linux/Commandes clés/Intallation logiciels.md",
+    "Linux/Bash/Shortcuts.md",
+    "Linux/Bash/Terminal & shell.md",
+    "Linux/Commandes clés/Permissions.md",
+    "Linux/Références.md",
+    "Linux/Configuration système 1.md",
+    "Linux/Configuration système.md",
+    "Linux/tty.md"
+  ]
+}

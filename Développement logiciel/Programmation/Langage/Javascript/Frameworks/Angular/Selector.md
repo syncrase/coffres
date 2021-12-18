@@ -63,7 +63,7 @@ Dans AppComponent, il deviens possible d'utiliser le sélecteur
 <app-orders></app-orders>
 ```
 
-Cette utilisation des composants permet l'utilisation des Input/Output, du [[data binding]], du [[banana in the box]], des [[Directives]], pour gérer les [[informations entre composants]]
+Cette utilisation des composants permet l'utilisation des Input/Output, du [[data binding]], du [[Banana in the box]], des [[Directives]], pour gérer les [[informations entre composants]]
 
 ``` 
 

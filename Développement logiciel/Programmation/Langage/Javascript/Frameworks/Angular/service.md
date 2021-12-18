@@ -11,7 +11,7 @@ Souvent, le service est un singleton
 export class MyService {
 ```
 Par exemple faire transiter des [[informations entre composants]]
-Ce n'est pas le cas lors du [[lazy loading#^900401]]
+Ce n'est pas le cas lors du [[Lazy loading#^900401]]
 
 Lorsque le service doit être disponible uniquement lorsqu'un module à été importé (cette méthode active le [[tree shaking]] si rien ne l'injecte)
 ```  
