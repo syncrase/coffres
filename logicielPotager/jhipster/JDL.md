@@ -49,3 +49,7 @@ doivent être dans le même ordre que la déclaration des applications microserv
 Supprimer les répertoires .jhipster et .yo et relancer la commande
 `sudo rm -rf */.yo*`
 `sudo rm -rf */.jhipster`
+
+# Existing yo-rc.json ?
+Message au début de la génération du projet
+`This is an existing project, using the configuration from your .yo-rc.json file to re-generate the project...`

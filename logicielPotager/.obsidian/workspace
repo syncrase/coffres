@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jhipster/JDL.md",
+            "file": "Linux/Terminal & shell.md",
             "mode": "source"
           }
         },
-        "group": "2729a63d3099bd42"
+        "group": "0027a8924cd66785"
       },
       {
-        "id": "54a7cd7efc9cf190",
+        "id": "3a7df486330ca1c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jhipster/JDL.md",
+            "file": "Linux/Terminal & shell.md",
             "mode": "preview"
           }
         },
-        "group": "2729a63d3099bd42"
+        "group": "0027a8924cd66785"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "app",
+                "query": "base.xml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jhipster/JDL.md",
+                "file": "Linux/Terminal & shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jhipster/JDL.md",
+                "file": "Linux/Terminal & shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jhipster/JDL.md"
+                "file": "Linux/Terminal & shell.md"
               }
             }
           }
@@ -134,15 +134,15 @@
   },
   "active": "f58c0c521eef1b0b",
   "lastOpenFiles": [
-    "jhipster/JDL.md",
-    "jhipster/Manipulation des entités.md",
-    "Sécurité/Notions génériques.md",
-    "Linux/Curl.md",
-    "REST/Appel REST.md",
-    "Git/Fichiers locaux.md",
-    "jhipster/Microservice.md",
-    "jhipster/multi-application.md",
-    "TODO.md",
-    "base de données/Cassandra/Problèmes rencontrés lors de la mise en place du Gateway.md"
+    "Linux/Terminal & shell.md",
+    "Linux/tty.md",
+    "Programmation/project management/About.md",
+    "Programmation/project management/JavaScript/Webpack.md",
+    "Programmation/Javascript/ECMAScript.md",
+    "Programmation/Javascript/Histoire.md",
+    "Programmation/project management/JavaScript/Browserify.md",
+    "Programmation/project management/JavaScript/Broccoli.md",
+    "Programmation/project management/JavaScript/Mimosa.md",
+    "Programmation/project management/JavaScript/Gulp.md"
   ]
 }
