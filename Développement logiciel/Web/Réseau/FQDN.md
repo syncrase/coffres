@@ -1,0 +1,1 @@
+https://fr.wikipedia.org/wiki/Fully_qualified_domain_name

@@ -44,12 +44,29 @@ doivent être dans le même ordre que la déclaration des applications microserv
 
 # Le JDL ne fonctionne pas sur un projet existant
 
+## 1er cas
 `Error running generator app: TypeError: Cannot read properties of undefined (reading 'clientFramework')`
 
 Supprimer les répertoires .jhipster et .yo et relancer la commande
 `sudo rm -rf */.yo*`
 `sudo rm -rf */.jhipster`
 
+## 2ième cas
+`ERROR! Cannot read property 'clientFramework' of undefined`
+
+`ERROR! Error executing app --reproducible --no-force --with-entities --no-dry-run --no-whitespace --no-bail --no-install-path --no-skip-regenerate --no-skip-yo-resolve --from-jdl --no-skip-cache --no-skip-install --no-force-install --no-ask-answered --no-defaults --no-skip-git`
+
+Les projets générés contiennent les bonnes entités dans le back mais aucun front n'est généré
+
+Solution : Vérifier les entiés dans l'option microservice
+
+
 # Existing yo-rc.json ?
 Message au début de la génération du projet
 `This is an existing project, using the configuration from your .yo-rc.json file to re-generate the project...`
+
+Arrive normalement quand un .yo-rc.json existe dans le /home directory
+Cette erreur est reproduite même avoir supprimer l'ensemble des yo-rc.json du système et même en lancant la génération depuis un container
+
+# sh: 1: rimraf: not found
+Il faut lancer `npm install`  dans le projet front pour régler le problème

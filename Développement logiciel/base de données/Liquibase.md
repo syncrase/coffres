@@ -58,3 +58,6 @@ cette configuration est dans le pom.xml
 
 ## Solution 2
 `UPDATE databasechangelog SET md5sum = null`
+
+# MigrationFailedException
+`Migration failed for change set config/liquibase/changelog/20211219174631_added_entity_PeriodeAnnee.xml::20211219174631-1::jhipster:`

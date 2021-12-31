@@ -1,0 +1,1 @@
+Signifie 'Single Sign On'
