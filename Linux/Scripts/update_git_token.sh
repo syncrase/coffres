@@ -78,7 +78,9 @@ git remote set-url origin $loop
 #echo -ne '\n' | git push
 #yes '\n' | git push
 #echo -e foo\n
+# https://stackoverflow.com/questions/6541109/send-string-to-stdin
 #cat <(echo "selection here") | git push
+# https://www.baeldung.com/linux/simulate-enter-keypress-bash
 #PUSH_RESULT=$(git push <<END "foo")
 
 #(sleep 3; echo; sleep 5) | git push
