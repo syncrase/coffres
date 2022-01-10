@@ -135,3 +135,13 @@ find -type d -exec echo mkdir -vp "$DST"/{} \; -or -exec echo mv -nv {} "$DST"/{
 
 sudo rm -rf !("full_apllication.cronquist.jdl") .*
 
+
+# Conversion image pdf
+
+Convertir une image vers pdf `img2pdf <input_file> -o <output_pdf>`
+avec le logiciel [img2pdf](https://techpiezo.com/linux/convert-png-jpeg-to-pdf-in-ubuntu/) `sudo apt install img2pdf`
+
+Réduire la taille du pdf 
+```shell
+ps2pdf -dPDFSETTINGS=/ebook input.pdf output.pdf
+```

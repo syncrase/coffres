@@ -13,21 +13,21 @@ Regroupe toutes les occurences de TODO
 	- [x] Dans une période, les deux mois sont obligatoires
 	- [x] Génération d'une couche de service
 - [x] Comment debugger le microservice [[Debugger Jhipster]]
-- [ ] Etudier la classification et choisir laquelle est la plus pertinente à utiliser en premier lieu. Modifier la strucuture de donnée si nécessaire. Voire créer un nouveau microservice
-- [ ] Extraire les données complètes et officielles de la classification
-- [ ] Enregistrer les données de classification en base de données
+- [x] Etudier la classification et choisir laquelle est la plus pertinente à utiliser en premier lieu. Modifier la strucuture de donnée si nécessaire. Voire créer un nouveau microservice
+- [x] Extraire les données complètes et officielles de la classification
+- [x] Enregistrer les données de classification en base de données
 - [ ] extraire les données des pages de aujardin.info et modifier la structure de données en conséquence
 	- [x] Extraire le nom latin
 	- [x] rusticité
 	- [ ] exposition
 	- [x] floraison
-	- [ ] Extraire les données de la classification
+	- [x] Extraire les données de la classification
 - [ ] Modifier les logos
 	- [ ] de chargement de l'app
 	- [ ] de l'onglet
-- [ ] incorporer le tableau des semis
+- [x] incorporer le tableau des semis
 - [ ] Problème de SSH lors de la tentative d'accès aux infos du microservice depuis le registre : localhost 8761/api/ssh/public_key: 404 Not Found (reproduction ?)
-- [ ] ajouter tous les champs pour une plantes dans le JDL pour générer toutes les applications
-- [ ] Dans le back j'ai un dossier fake data, je n'en veut pas => régénérer les projets et copier mon crawler pour ne plus avoir les fake data
+- [x] ajouter tous les champs pour une plantes dans le JDL pour générer toutes les applications
+- [x] Dans le back j'ai un dossier fake data, je n'en veut pas => régénérer les projets et copier mon crawler pour ne plus avoir les fake data
 - [ ] accéder à postgre lorsque toutes les application sont exécutées via compose
 - [ ] comment profiter du live reload quand les application sont lancées via compose ?

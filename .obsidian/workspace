@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Développement logiciel/Web/Darknets/Cryptomarché.md",
+            "file": "Linux/Commandes clés/Manipulation de texte.md",
             "mode": "source",
             "source": false
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Développement logiciel/Web/Darknets/Cryptomarché.md",
-            "mode": "preview",
+            "file": "Linux/Commandes clés/Manipulation de texte.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REST",
+                "query": "tar.gz",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement logiciel/Web/Darknets/Cryptomarché.md",
+                "file": "Linux/Commandes clés/Manipulation de texte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement logiciel/Web/Darknets/Cryptomarché.md",
+                "file": "Linux/Commandes clés/Manipulation de texte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement logiciel/Web/Darknets/Cryptomarché.md"
+                "file": "Linux/Commandes clés/Manipulation de texte.md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "c82047a1e09f69c9",
   "lastOpenFiles": [
-    "Développement logiciel/Web/Darknets/Cryptomarché.md",
-    "Développement logiciel/Web/Darknets/Darkweb.md",
-    "Développement logiciel/Web/Darknets/darknet.md",
-    "Développement logiciel/Web/Web et internet.md",
-    "Développement logiciel/Web/Transfert des données.md",
-    "Développement logiciel/Web/Transmission de données/TCP.md",
-    "Développement logiciel/Web/Transmission de données/FTP.md",
-    "Développement logiciel/Web/Transmission de données/HTTP.md",
-    "Développement logiciel/Web/Darknets/Tor.md",
-    "Développement logiciel/base de données/API/JPA.md"
+    "Linux/Commandes clés/Manipulation de texte.md",
+    "Développement logiciel/sublimeText/REGEX.md",
+    "Linux/Commandes clés/Fichiers et dossiers.md",
+    "Linux/Commandes clés/Intallation logiciels.md",
+    "Développement logiciel/JetBrain/Raccourcis.md",
+    "Développement logiciel/TODO.md",
+    "Développement logiciel/Introduction.md",
+    "Linux/Shell script.md",
+    "Développement logiciel/Git/Fichiers locaux.md",
+    "Linux/Commandes clés/echo.md"
   ]
 }

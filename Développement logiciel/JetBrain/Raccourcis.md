@@ -40,12 +40,13 @@ Alt + Entrée pour vérifier une regex
 -	Ctrl + F1 : error description
 -	Find usage : Press Alt+Maj+7 to quickly locate all occurrences of code referencing the symbol at the caret, no matter if the symbol is a part of a class, method, field, parameter, or another statement.
 - Ctrl + G : Go to line
+- Ctrl + F12 : Show list members
 
 # Génération de boilerplates
 -	You can generate boilerplate code such as getters and setters and implement interface methods using code completion.
 		Just start typing the would-be name of a method, for example, gn to generate getName() or ct to implement compareTo().
 -	Ctrl + Maj + Suppr : pour unwrap
--	Ctrl + Alt + T : surround ne fonctionne pas car raccourci ubuntu....	
+-	Ctrl + Alt + T : surround with
 
 
 # Code assistance
@@ -75,6 +76,7 @@ Alt + Entrée pour vérifier une regex
 -	Alt + J select symbol and next occurences (+ Maj for go back)
 -	Ctrl + Alt + Maj + J Select all occurences
 -	Alt + Maj : multi curseur
+-	Alt + drag cursor : rectangular selection
 
 
 ## Formatting
