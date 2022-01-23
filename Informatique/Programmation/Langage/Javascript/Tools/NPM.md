@@ -1,6 +1,7 @@
 ---
-aliases: javasacript package manager, package manager
+aliases: 
 ---
+#javasacript-package-manager #package-manager
 
 Npm est :
 - dependency management

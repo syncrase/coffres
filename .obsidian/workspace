@@ -9,25 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Commandes clés/Manipulation de texte.md",
+            "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "ff2e0a81d5dfb946"
-      },
-      {
-        "id": "bf1ba2f8e5449b3b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linux/Commandes clés/Manipulation de texte.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "ff2e0a81d5dfb946"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tar.gz",
+                "query": "tag:#angular",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Commandes clés/Manipulation de texte.md",
+                "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Commandes clés/Manipulation de texte.md",
+                "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Commandes clés/Manipulation de texte.md"
+                "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md"
               }
             }
           }
@@ -145,15 +131,15 @@
   },
   "active": "c82047a1e09f69c9",
   "lastOpenFiles": [
-    "Linux/Commandes clés/Manipulation de texte.md",
-    "Développement logiciel/sublimeText/REGEX.md",
-    "Linux/Commandes clés/Fichiers et dossiers.md",
-    "Linux/Commandes clés/Intallation logiciels.md",
-    "Développement logiciel/JetBrain/Raccourcis.md",
-    "Développement logiciel/TODO.md",
-    "Développement logiciel/Introduction.md",
-    "Linux/Shell script.md",
-    "Développement logiciel/Git/Fichiers locaux.md",
-    "Linux/Commandes clés/echo.md"
+    "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
+    "Informatique/Programmation/Langage/Javascript/Frameworks/Angular/service.md",
+    "Linux/Système/Init system.md",
+    "Linux/Commandes clés/Installation logiciels.md",
+    "Informatique/Architecture/Microservice/La base.md",
+    "Informatique/Programmation/Langage/Javascript/Tools/Yarn.md",
+    "Informatique/Programmation/Langage/Javascript/Tools/Webpack.md",
+    "Informatique/Programmation/Langage/Javascript/Tools/Rush.md",
+    "Informatique/Programmation/Langage/Javascript/Tools/Rollup.md",
+    "Informatique/Programmation/Langage/Javascript/Tools/PNPM.md"
   ]
 }
