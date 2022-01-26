@@ -1,0 +1,87 @@
+
+[ref](https://stackoverflow.com/questions/50469927/view-git-history-of-specific-line/50473741)
+
+[Git history](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+
+# gitk command
+open a GUI with graph, history, etc
+
+# git log
+[log](https://git-scm.com/docs/git-log)
+```bash
+git log --after=2021-12-25 --before=2021-12-31 --no-merges -- <my/path/>
+git log --after=2.years --before=2021-12-31 --stat --no-merges -- <my/path/>
+git log --pretty=format:"%h - %an, %ar : %s" --graph -15 -- <my/path/>
+git log --skip 4 --oneline
+```
+
+## Common options
+[doc](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History#log_options)
+
+### Limiting to a path
+git log -- my/path/
+
+### --graph options
+Show the branches graph
+
+### --stat option
+Show the number of added/removed lines on each files
+
+### --pretty option
+```bash
+# Concised output
+git log --pretty=oneline
+```
+```bash
+# Custom formatted output
+git log --pretty=format:"%h - %an, %ar : %s"
+```
+see [pretty format specifier](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History#pretty_format)
+
+## More specifics options
+
+### -L option
+git -L <start>,<end>:<file>
+-L :<funcname>:<file>
+### --since, --after  and --until, --before options
+```bash
+git log --since=2.weeks
+git log --since=2021-12-25
+git log --since="2 years 1 day 3 minutes ago"
+```
+
+```bash
+git log --until=2021-12-25
+git log --until="2 years 1 day 3 minutes ago"
+```
+
+```bash
+git log --after=2021-12-25 --before=2021-12-31
+```
+
+### -S option (match string in content)
+Find all commit which added or removed a reference to a specific string
+git -S myStr
+
+
+### --grep option (match string in message)
+Find a string in commit message
+
+### --no-merges option
+No mrege commit
+
+
+### --follow option
+Continu after rename
+
+### Just last commit
+Get only the last four commits
+```bash
+git log -4
+```
+
+# git show
+Show a specific commit with diff, the HEAD pointed
+
+# rev-list
+git rev-list HEAD -- <file_or_folder_path>
