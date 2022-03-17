@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "a98a8d34a1120bde",
+    "id": "ee1a2ea10a04968a",
     "type": "split",
     "children": [
       {
-        "id": "c82047a1e09f69c9",
+        "id": "dac07d1934503cb0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
+            "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b0560a831a5e411",
+    "id": "9e6e10ef06f86dea",
     "type": "split",
     "children": [
       {
-        "id": "f33db573d589ae47",
+        "id": "1a5883c25ed24ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "1a5e25dab85a09f0",
+            "id": "4a2f343f236c5460",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,13 +35,13 @@
             }
           },
           {
-            "id": "bd3c022d00ca2275",
+            "id": "ca5b812901af4bf7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#angular",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "31692015736053fc",
+            "id": "0c90cd0713f611e8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "a74c71e7d484bf82",
+    "id": "dabc69d4d3fd1a1e",
     "type": "split",
     "children": [
       {
-        "id": "17d99e4146f8bdb2",
+        "id": "fce91170911c03a0",
         "type": "tabs",
         "children": [
           {
-            "id": "ee35bd1e7e58669b",
+            "id": "63dcc03881e7d8a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
+                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,19 @@
             }
           },
           {
-            "id": "8617f828d161725b",
+            "id": "5e542f3e07e12520",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
+                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "22b789070c56fa58",
+            "id": "32eb38617e79b290",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,34 +112,28 @@
             }
           },
           {
-            "id": "65893262bd847395",
+            "id": "6fc44245a32cd48b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Architecture/Vizualization IT/RabbitMQ.md"
+                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c82047a1e09f69c9",
+  "active": "dac07d1934503cb0",
   "lastOpenFiles": [
-    "Informatique/Architecture/Vizualization IT/RabbitMQ.md",
-    "Informatique/Programmation/Langage/Javascript/Frameworks/Angular/service.md",
-    "Linux/Système/Init system.md",
-    "Linux/Commandes clés/Installation logiciels.md",
-    "Informatique/Architecture/Microservice/La base.md",
-    "Informatique/Programmation/Langage/Javascript/Tools/Yarn.md",
-    "Informatique/Programmation/Langage/Javascript/Tools/Webpack.md",
-    "Informatique/Programmation/Langage/Javascript/Tools/Rush.md",
-    "Informatique/Programmation/Langage/Javascript/Tools/Rollup.md",
-    "Informatique/Programmation/Langage/Javascript/Tools/PNPM.md"
+    "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
+    "Informatique/Programmation/Craft/References/Knowledge crunching.md",
+    "Informatique/Programmation/Craft/References/Communication.md",
+    "Informatique/Programmation/Craft/References/Bounded context.md",
+    "Informatique/Programmation/Agillité/Scrum/Scrum guide.md"
   ]
 }
