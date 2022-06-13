@@ -7,6 +7,14 @@
         "id": "dac07d1934503cb0",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "821f31cf781e4ef3",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
             "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
@@ -120,15 +128,49 @@
                 "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md"
               }
             }
+          },
+          {
+            "id": "1d1a67b32e76c688",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 510
   },
-  "active": "dac07d1934503cb0",
+  "active": "821f31cf781e4ef3",
   "lastOpenFiles": [
     "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
     "Informatique/Programmation/Craft/References/Knowledge crunching.md",
