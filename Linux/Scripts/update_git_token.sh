@@ -20,10 +20,8 @@
 #
 
 
-# Where the script was launch from ?
 #echo "Script launch from \t"`pwd`
 
-# Where is the script located ?
 #echo "Script located in \t$(dirname "$(readlink -f "$0")")"
 
 if [ "$#" -ne 1 ]; then

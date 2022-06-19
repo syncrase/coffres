@@ -1,4 +1,7 @@
 
+#ddd #software-development 
+
+
 Valuable model requires a deep understanding of the domain. This understanding comes from diving in and implementaing an initial design based on a naive model and transforming it again and again through the [[Knowledge crunching]] process.
 The model
 

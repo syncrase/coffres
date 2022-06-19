@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dac07d1934503cb0",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "821f31cf781e4ef3",
+        "id": "f8f4033652263848",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
+            "file": "Informatique/Programmation/Craft/Best practices.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DDD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 416
   },
   "right": {
     "id": "dabc69d4d3fd1a1e",
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
+                "file": "Informatique/Programmation/Craft/Best practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
+                "file": "Informatique/Programmation/Craft/Best practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md"
+                "file": "Informatique/Programmation/Craft/Best practices.md"
               }
             }
           },
@@ -135,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
+                "file": "Informatique/Programmation/Craft/Best practices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,14 +160,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510
+    "width": 510,
+    "collapsed": true
   },
-  "active": "821f31cf781e4ef3",
+  "active": "f8f4033652263848",
   "lastOpenFiles": [
-    "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md",
-    "Informatique/Programmation/Craft/References/Knowledge crunching.md",
-    "Informatique/Programmation/Craft/References/Communication.md",
-    "Informatique/Programmation/Craft/References/Bounded context.md",
-    "Informatique/Programmation/Agillité/Scrum/Scrum guide.md"
+    "Informatique/Programmation/Craft/Best practices.md",
+    "Informatique/Programmation/Craft/Principles/YAGNI.md",
+    "Informatique/Programmation/Craft/Principles/DRY.md",
+    "Informatique/Programmation/Craft/Principles/SOLID.md",
+    "Informatique/Programmation/Craft/Domain driven design/Value object.md",
+    "Informatique/Programmation/Craft/Domain driven design/TDD.md",
+    "Informatique/Programmation/Craft/Domain driven design/Tactical design.md",
+    "Informatique/Programmation/Craft/Domain driven design/Strategic design.md",
+    "Informatique/Programmation/Craft/Domain driven design/Specification.md",
+    "Informatique/Programmation/Craft/Domain driven design/Service.md"
   ]
 }

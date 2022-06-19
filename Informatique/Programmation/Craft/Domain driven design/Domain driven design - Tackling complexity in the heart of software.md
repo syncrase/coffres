@@ -1,8 +1,11 @@
+
+#ddd #software-development 
+
 By Eric Evans
 
 Premise of DDD is twofold:
-- the primary focsu should be on the domain and the domain logic
-- Complex domain design should be based on a [[model]]
+- the primary focus should be on the domain and the domain logic
+- Complex domain design should be based on a [[Model]]
 
 DDD isn't a methodology but a new family of "Agile development process". 
 Two practices are prerequisites for applying this approach :

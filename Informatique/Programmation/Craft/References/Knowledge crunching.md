@@ -1,2 +1,0 @@
-Brainstorming between dev and expert in order to extract, through iterations, the domain model.
-Domain expert clarifies the goal of the application. Understand the major concept of the application (continuous learning)

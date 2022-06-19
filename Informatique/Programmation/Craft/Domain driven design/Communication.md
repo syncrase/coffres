@@ -1,3 +1,6 @@
+
+#ddd #software-development 
+
 The model-based communication is not limited to diagram, it needs to pervade every medium of communication
 
 # UBIQUITOUS LANGUAGE

@@ -1,4 +1,5 @@
 
+
 https://fr.wikipedia.org/wiki/SOLID_(informatique)
 https://alexsoyes.com/solid/
 https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
