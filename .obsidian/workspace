@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Programmation/Craft/Best practices.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DDD",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Programmation/Craft/Best practices.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Programmation/Craft/Best practices.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Programmation/Craft/Best practices.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Informatique/Programmation/Craft/Best practices.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "f8f4033652263848",
   "lastOpenFiles": [
-    "Informatique/Programmation/Craft/Best practices.md",
-    "Informatique/Programmation/Craft/Principles/YAGNI.md",
-    "Informatique/Programmation/Craft/Principles/DRY.md",
-    "Informatique/Programmation/Craft/Principles/SOLID.md",
-    "Informatique/Programmation/Craft/Domain driven design/Value object.md",
-    "Informatique/Programmation/Craft/Domain driven design/TDD.md",
-    "Informatique/Programmation/Craft/Domain driven design/Tactical design.md",
-    "Informatique/Programmation/Craft/Domain driven design/Strategic design.md",
-    "Informatique/Programmation/Craft/Domain driven design/Specification.md",
-    "Informatique/Programmation/Craft/Domain driven design/Service.md"
+    "README.md",
+    "Informatique/Web/Sécurité/OpenID Connect.md",
+    "Informatique/Web/Sécurité/Notions génériques.md",
+    "Informatique/Web/Sécurité/Keycloak.md",
+    "Informatique/Web/Réseau/FQDN.md",
+    "Informatique/Web/Darknets/Cryptomarché.md",
+    "Informatique/Git/Git.md",
+    "Informatique/Git/Sécurité.md",
+    "Informatique/Git/Hooks.md",
+    "Informatique/Git/Fichiers locaux.md"
   ]
 }

@@ -1,2 +1,2 @@
 
-Aussi appelé ODIC
+Aussi appelé OIDC

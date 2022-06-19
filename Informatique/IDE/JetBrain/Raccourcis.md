@@ -109,4 +109,4 @@ Les raccourcis ci-dessous interfèrent avec ceux de Ubuntu :
 - Ctrl + Alt + T : Open a terminal in Ubuntu and Surround in IntelliJ IDEA
 
 Le problème se règle simplement en modifiant les raccourcis de l'un ou l'autre. 
-- [[Linux/Configuration système#Les raccourcis|Modifier les raccourcis Ubuntu]]
+- [[Configuration système#Les raccourcis|Modifier les raccourcis Ubuntu]]
