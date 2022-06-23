@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f4033652263848",
+        "id": "1864ec8640f23857",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "dataview test.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#ddd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 416
+    "width": 416,
+    "collapsed": true
   },
   "right": {
     "id": "dabc69d4d3fd1a1e",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "dataview test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "dataview test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "dataview test.md"
               }
             }
           },
@@ -127,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "dataview test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,16 +157,27 @@
                 }
               }
             }
+          },
+          {
+            "id": "4f25fc754dcb4763",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 510,
+    "width": 262,
     "collapsed": true
   },
-  "active": "f8f4033652263848",
+  "active": "1864ec8640f23857",
   "lastOpenFiles": [
+    "dataview test.md",
+    "Informatique/Editeurs de texte & IDE/Obsiddian/Obsidian.md",
     "README.md",
     "Informatique/Web/Sécurité/OpenID Connect.md",
     "Informatique/Web/Sécurité/Notions génériques.md",
@@ -172,8 +185,6 @@
     "Informatique/Web/Réseau/FQDN.md",
     "Informatique/Web/Darknets/Cryptomarché.md",
     "Informatique/Git/Git.md",
-    "Informatique/Git/Sécurité.md",
-    "Informatique/Git/Hooks.md",
-    "Informatique/Git/Fichiers locaux.md"
+    "Informatique/Git/Sécurité.md"
   ]
 }
