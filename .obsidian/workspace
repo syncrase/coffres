@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dataview test.md",
+            "file": "2 dataview test.md",
             "mode": "source",
             "source": false
           }
@@ -57,13 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 416,
-    "collapsed": true
+    "width": 252
   },
   "right": {
     "id": "dabc69d4d3fd1a1e",
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dataview test.md",
+                "file": "2 dataview test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dataview test.md",
+                "file": "2 dataview test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dataview test.md"
+                "file": "2 dataview test.md"
               }
             }
           },
@@ -129,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dataview test.md",
+                "file": "2 dataview test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,15 +174,15 @@
   },
   "active": "1864ec8640f23857",
   "lastOpenFiles": [
-    "dataview test.md",
+    "2 dataview test.md",
+    "1 dataview test 1.md",
+    "2 d3 js.md",
+    "0 dataview test.md",
     "Informatique/Editeurs de texte & IDE/Obsiddian/Obsidian.md",
+    "Informatique/Programmation/Craft/Domain driven design/Tactical design.md",
+    "Informatique/Programmation/Craft/Domain driven design/Aggregates.md",
+    "Templates/NotesList/Sans titre.md",
     "README.md",
-    "Informatique/Web/Sécurité/OpenID Connect.md",
-    "Informatique/Web/Sécurité/Notions génériques.md",
-    "Informatique/Web/Sécurité/Keycloak.md",
-    "Informatique/Web/Réseau/FQDN.md",
-    "Informatique/Web/Darknets/Cryptomarché.md",
-    "Informatique/Git/Git.md",
-    "Informatique/Git/Sécurité.md"
+    "Informatique/Web/Sécurité/OpenID Connect.md"
   ]
 }

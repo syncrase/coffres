@@ -1,32 +1,9 @@
-	
+
 #note #editeur-de-texte #markdown
 
 [obsidian-api](https://github.com/obsidianmd/obsidian-api)
 
-| description   | mardown     |
-| ------------- | ----------- |
-|               |             |
-|       insérer un pdf        |     `![[My File.pdf#page=number]]`        |
-| afficher une page | `![Titre](path)` |
-| afficher une page | `![[Titre]]` |
-| lier une page | `[Titre](path)` |
-| lier une page | `[[Titre]]` |
-
-# Embarquer un média
-
-Vidéo dans une iFrame
-#todo formatter ifram, je la veut plus large
-```html
-<iframe src="https://www.youtube.com" width:650></iframe>
-```
-<iframe src="https://www.youtube.com" width:650></iframe>
-
-
-#toc
-
-[How to Boost your Productivity for Scientific Research | by Leonardo Castorina | Medium | Medium](https://medium.com/@universvm/how-to-boost-your-productivity-for-scientific-research-using-obsidian-fe85c98c63c8)
-
-# Prise de notes
+# Formattage du contenu d'une note
 
 - Une note peut rediriger vers une autre : link & backlink
 - metadata en debut de note contenu entre les balises `---`
@@ -34,7 +11,8 @@ Vidéo dans une iFrame
 - Formattage en section avec les callout
 
 
-# CSS
+
+## CSS
 activer l'option dans la partie apparence
 ajouter le css dans le fichier `.obsidian\snippets\customTags.css`
 
@@ -68,6 +46,38 @@ ajouter le css dans le fichier `.obsidian\snippets\customTags.css`
 }
 ```
 
+
+# Les liens entre les notes
+| description       | mardown                        |
+| ----------------- | ------------------------------ |
+| lier une note     | `[[my note]]`                  |
+|                   | `[Titre](path)`                |
+| afficher une note | `![Titre](path)`               |
+|                   | `![[Titre]]`                   |
+
+# Ajouter du contenu externe
+| description       | markdown                       |
+| ----------------- | ------------------------------ |
+| insérer un pdf    | `![[My File.pdf#page=number]]` |
+| insérer une image | `![[image/path]]`              |
+|                   | drag & drop                    |
+| afficher une vidéo | cf. [[Obsidian#Embarquer un média]] |
+
+## Embarquer un média
+
+Vidéo dans une iFrame
+#todo formatter ifram, je la veut plus large
+```html
+<iframe src="https://www.youtube.com" width:650></iframe>
+```
+<iframe src="https://www.youtube.com" width:650></iframe>
+
+
+#toc
+
+[How to Boost your Productivity for Scientific Research | by Leonardo Castorina | Medium | Medium](https://medium.com/@universvm/how-to-boost-your-productivity-for-scientific-research-using-obsidian-fe85c98c63c8)
+
+
 ---
 # Plugin
 
@@ -86,26 +96,30 @@ il faut configurer [[Git]] pour qu'il passe par le proxy (ici, Fiddler)
 Permet de requêter les notes pour générer du contenu dynamique.
 Très utile mais demande une bonne maitrise du SQL et d javascript
 
-# advanced tables
+code reuse (require(...))
+https://forum.obsidian.md/t/dataviewjs-code-reuse-common-place-for-scripts/18611/5
+
+
+## advanced tables
 Permet d'afficher des tables
 Utile et ne demande aucune compétence
 
-# calendar
+## calendar
 Utile pour crére une note quotidienne ou en rechercher une.
 
-# cMenu
+## cMenu
 Bar de menu pour insérer un style
 Pas très utile
 
-# Power Search
+## Power Search
 recherche des notes et tags lors de la saisie
 Très utile et ne demande aucune compétence
 
-# Tag & Word cloud
+## Tag & Word cloud
 Juste pour afficher un nuage de mots
 Pas très utile
 
-# Templater
+## Templater
 Permet de définir des templates pour ajouter du contenu à un notes ou créer une note.
 Très utile mais demande une certaine maitrise
 

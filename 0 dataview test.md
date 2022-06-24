@@ -13,7 +13,13 @@ Dataview snippets
 https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847
 https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673
 
-# Essai 1: html basics
+plugins exemples
+https://github.com/ryanjamurphy/vantage-obsidian
+
+# Essai 1: html input & button + template Plugin
+
+inspirations
+utilisation du html
 https://github.com/ryanjamurphy/vantage-obsidian/blob/master/main.ts
 https://github.com/blacksmithgu/obsidian-dataview/discussions/701
 
@@ -23,7 +29,9 @@ https://github.com/samlewis0602/obsidian-custom-js
 https://forum.obsidian.md/t/dataviewjs-code-reuse-common-place-for-scripts/18611
 
 ```dataviewjs
-let tags = dv.current().file.etags;  
+  
+/**  
+ * Ceci est un script dataviewjs */let tags = dv.current().file.etags;  
 dv.el('div', tags);  
   
 let root = this.container.createEl('div');  
@@ -54,14 +62,23 @@ function getAllInputContentAsArray() {
   
 function getAllNotesByTagIntersection(tags) {  
     const request = '#' + tags.join(' and #');  
+    dv.view('/Templates/NotesList', { tagName : request});  
     return dv.pages(request);  
+}  
+  
+function displayNotes(tags) {  
+    const request = '#' + tags.join(' and #');  
+    dv.view('/Templates/NotesList', { tagName : request});  
 }  
   
 boutonDeValidation.addEventListener('click', _ => {  
     const tags = getAllInputContentAsArray();  
     const notes = getAllNotesByTagIntersection(tags);  
-    notes.forEach(note => {  
-        dv.el('div', note.file.name);  
-    })  
 });
 ```
+
+
+# Essai X: utilisation de D3.js
+Un bubble chart pour afficher les tags
+clic sur un tag implique d'afficher tous les tags auxquel il est associé + liste des notes
+https://observablehq.com/@d3/bubble-chart
