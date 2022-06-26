@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 dataview test.md",
+            "file": "1 dataview test 1.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ddd",
+                "query": "tag:#architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 dataview test.md",
+                "file": "1 dataview test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 dataview test.md",
+                "file": "1 dataview test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 dataview test.md"
+                "file": "1 dataview test 1.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 dataview test.md",
+                "file": "1 dataview test 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,11 +174,11 @@
   },
   "active": "1864ec8640f23857",
   "lastOpenFiles": [
-    "2 dataview test.md",
     "1 dataview test 1.md",
-    "2 d3 js.md",
     "0 dataview test.md",
     "Informatique/Editeurs de texte & IDE/Obsiddian/Obsidian.md",
+    "2 dataview test.md",
+    "2 d3 js.md",
     "Informatique/Programmation/Craft/Domain driven design/Tactical design.md",
     "Informatique/Programmation/Craft/Domain driven design/Aggregates.md",
     "Templates/NotesList/Sans titre.md",

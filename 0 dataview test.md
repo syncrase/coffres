@@ -82,3 +82,6 @@ boutonDeValidation.addEventListener('click', _ => {
 Un bubble chart pour afficher les tags
 clic sur un tag implique d'afficher tous les tags auxquel il est associé + liste des notes
 https://observablehq.com/@d3/bubble-chart
+
+je n'ai pas trouvé le moyen d'importer D3.js
+=> faire un plugin pour afficher le bubble chart comme je le souhaite ? Et d'autres (tree chart)

@@ -1,10 +1,15 @@
 #tagTest 
 
-état initial: sélection AND des tag
 
-projet: ajouter la condition NOT
+Fonctionnalités :
+- [x] ajouter les conditions AND & NOT
+- [x] le tag ajouté est supprimé du champ de saisie
+- [x]  pouvoir supprimer les tags ajoutés
+- [x] refactorer les fonction d'ajout des input
+- [x] BUG lors d'un deuxième clic sur valider
+- [ ]  les résultats successifs sont ajoutés dans la même div (voir dans le template)
+- [x] afficher tous les tags associés ainsi que le nombre d'occurence (Grâce à un bouton Vérifier)
 
-Deux input, un pour ajouter des tags et un autre pour les exclure
 
 ```dataviewjs
 /**  
@@ -16,43 +21,74 @@ let andList = [];
 let andTagsContainer = tagsContainer.createEl('div');  
 let notList = [];  
 let notTagsContainer = tagsContainer.createEl('div');  
+let generatedRequestContainer = tagsContainer.createEl('div');  
   
-function ajouteUnChampDeSaisie(id) {  
-    let theInput = inputContainer.createEl('input', {'type': 'text', 'id': id});  
-    if (id === 'and') {  
-        theInput.addEventListener('keypress', function (keypressed) {  
-            if (keypressed.code === 'Enter') {  
-                // Ajout d'un tag à la liste des tags à inclure  
-                andList.push(theInput.value);  
-                andTagsContainer.innerHTML = andList.join(', ');  
-            }  
+function afficheLaListe(tagsContainer, valeurs) {  
+    tagsContainer.innerHTML = '';  
+    valeurs.forEach(tag => {  
+        let theTag = tagsContainer.createEl('em', {'text': tag + ' '});  
+        theTag.addEventListener('click', () => {  
+            valeurs.splice(valeurs.indexOf(tag), 1);  
+            afficheLaListe(tagsContainer, valeurs);  
         });  
-    }  
-    if (id === 'not') {  
-        theInput.addEventListener('keypress', function (keypressed) {  
-            if (keypressed.code === 'Enter') {  
-                // Ajout d'un tag à la liste des tags à exclure  
-                notList.push(theInput.value);  
-                notTagsContainer.innerHTML = notList.join(', ');  
-            }  
-        });  
-    }  
+    });  
 }  
   
-ajouteUnChampDeSaisie('and');  
-ajouteUnChampDeSaisie('not');  
+function ajouteUnChampDeSaisie(label, id, valeurs, notTagsContainer) {  
+    let theLabel = inputContainer.createEl('label', {'for': id});  
+    theLabel.append(label);  
+    let theInput = inputContainer.createEl('input', {'type': 'text', 'id': id, 'name': id});  
+    theInput.addEventListener('keypress', function (keypressed) {  
+        if (keypressed.code === 'Enter') {  
+            // Ajout d'un tag à la liste des tags à exclure  
+            valeurs.push(theInput.value);  
+            theInput.value = '';  
+            // Affichage de la liste des tags  
+            afficheLaListe(notTagsContainer, valeurs);  
+        }  
+    });  
+}  
+  
+ajouteUnChampDeSaisie('Inclure', 'and', andList, andTagsContainer);  
+ajouteUnChampDeSaisie('Exclure', 'not', notList, notTagsContainer);  
   
 let boutonDeValidation = root.createEl('button', {'type': 'button'});  
 boutonDeValidation.append('Valider');  
-  
-function getRequest() {  
-    andList = andList.map(e => '#' + e);  
-    notList = notList.map(e => '-#' + e);  
-    return andList.concat(notList).join(' and ');  
-}  
-  
 boutonDeValidation.addEventListener('click', _ => {  
     const request = getRequest();  
+    generatedRequestContainer.innerHTML = 'La requête est : ' + request;  
     dv.view('/Templates/NotesList', {tagName: request});  
-});
+});  
+  
+let boutonDeVerification = root.createEl('button', {'type': 'button'});  
+boutonDeVerification.append('Vérifier');  
+boutonDeVerification.addEventListener('click', _ => {  
+    const request = getRequest();  
+    generatedRequestContainer.innerHTML = 'La requête est : ' + request;  
+    // Récupère tous les tags concernés  
+    let tagsMap = new Map();  
+    let noteList = dv.pages(request);  
+    noteList.forEach(note => {  
+        note.file.etags.forEach(tag => {  
+            if (tagsMap.get(tag) == null) {  
+                tagsMap.set(tag, 1);  
+            } else {  
+                tagsMap.set(tag, tagsMap.get(tag) + 1);  
+            }  
+        });  
+    });  
+    dv.el('div', tagsMap.size);  
+    for (let key of tagsMap.keys()) {  
+        dv.el('em', key + ' : ' + tagsMap.get(key));  
+        dv.el('br');  
+    }  
+  
+});  
+  
+function getRequest() {  
+    let formattedAndList = andList.map(e => '#' + e);  
+    let formattedNotList = notList.map(e => '-#' + e);  
+    return formattedAndList.concat(formattedNotList).join(' and ');  
+  
+}
 ```
