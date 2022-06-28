@@ -80,6 +80,11 @@ Vidéo dans une iFrame
 
 ---
 # Plugin
+## Développement
+https://marcus.se.net/obsidian-plugin-docs/
+https://github.com/obsidianmd/obsidian-sample-plugin
+
+
 
 ## Ajout d'un plugin derrière un proxy
 il faut configurer [[Git]] pour qu'il passe par le proxy (ici, Fiddler)
@@ -123,6 +128,51 @@ Pas très utile
 Permet de définir des templates pour ajouter du contenu à un notes ou créer une note.
 Très utile mais demande une certaine maitrise
 
+## Jira
+https://github.com/marc0l92/obsidian-jira-issue
+
+## Omnisearch
+https://github.com/scambier/obsidian-omnisearch
+
+## Timeline
+https://github.com/Darakah/obsidian-timelines
+
+## Livre
+https://github.com/MichaBrugger/booksidian_plugin
+
+## UML
+https://github.com/joethei/obsidian-plantuml
+
+
+## Tag
+https://github.com/pjeby/tag-wrangler
+
+## Tags folder
+https://github.com/vrtmrz/obsidian-tagfolder
+
+
+## Tabs
+https://github.com/gitobsidiantutorial/obsidian-tabs
+
+## Note as a mindmap
+https://github.com/MarkMindCkm/obsidian-enhancing-mindmap
+
+## diagram draw.io
+https://github.com/zapthedingbat/drawio-obsidian
+
+## Livre Zotero
+https://github.com/mgmeyers/obsidian-zotero-integration
+## Livre Calibre
+https://github.com/caronchen/obsidian-calibre-plugin
+
+## Timeline
+https://github.com/George-debug/obsidian-timeline
+
+# Recherche
+https://github.com/ryanjamurphy/vantage-obsidian
+
+# Neo4J Graph and query
+https://github.com/HEmile/obsidian-neo4j-graph-view
 
 
 ---
