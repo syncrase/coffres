@@ -3,7 +3,13 @@
 
 [obsidian-api](https://github.com/obsidianmd/obsidian-api)
 
-# Formattage du contenu d'une note
+
+# Bases de la prise de notes
+
+- Une note peut rediriger vers une autre : link & backlink
+- metadata en debut de note contenu entre les balises `---`
+- code blocks nommé entre les triple \`\`\`\<nom\>\\n code\`\`\`
+- Formattage en section avec les callout
 
 - Une note peut rediriger vers une autre : link & backlink
 - metadata en debut de note contenu entre les balises `---`
@@ -131,22 +137,23 @@ Très utile mais demande une certaine maitrise
 ## Jira
 https://github.com/marc0l92/obsidian-jira-issue
 
-## Omnisearch
-https://github.com/scambier/obsidian-omnisearch
-
 ## Timeline
 https://github.com/Darakah/obsidian-timelines
-
-## Livre
-https://github.com/MichaBrugger/booksidian_plugin
+https://github.com/George-debug/obsidian-timeline
 
 ## UML
 https://github.com/joethei/obsidian-plantuml
+## diagram draw.io
+https://github.com/zapthedingbat/drawio-obsidian
+
+## Note as a mindmap
+https://github.com/MarkMindCkm/obsidian-enhancing-mindmap
+# Neo4J Graph and query
+https://github.com/HEmile/obsidian-neo4j-graph-view
 
 
 ## Tag
 https://github.com/pjeby/tag-wrangler
-
 ## Tags folder
 https://github.com/vrtmrz/obsidian-tagfolder
 
@@ -154,25 +161,17 @@ https://github.com/vrtmrz/obsidian-tagfolder
 ## Tabs
 https://github.com/gitobsidiantutorial/obsidian-tabs
 
-## Note as a mindmap
-https://github.com/MarkMindCkm/obsidian-enhancing-mindmap
-
-## diagram draw.io
-https://github.com/zapthedingbat/drawio-obsidian
-
 ## Livre Zotero
 https://github.com/mgmeyers/obsidian-zotero-integration
 ## Livre Calibre
 https://github.com/caronchen/obsidian-calibre-plugin
-
-## Timeline
-https://github.com/George-debug/obsidian-timeline
+## Livre
+https://github.com/MichaBrugger/booksidian_plugin
 
 # Recherche
 https://github.com/ryanjamurphy/vantage-obsidian
-
-# Neo4J Graph and query
-https://github.com/HEmile/obsidian-neo4j-graph-view
+## Omnisearch
+https://github.com/scambier/obsidian-omnisearch
 
 
 ---
