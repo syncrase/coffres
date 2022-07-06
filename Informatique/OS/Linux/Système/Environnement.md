@@ -15,6 +15,7 @@ Pour plus de précision cf. le site officiel [fhs](https://www.pathname.com/fhs/
 -   /sbin : exécutables d’administration communs
     
 -   _/usr/_bin : Exécutables utilisateur
+	- /usr/share/applications/ contient les .desktop du menu
     
 -   _/usr_s/bin : Idem + librairies
     
@@ -37,6 +38,6 @@ Pour plus de précision cf. le site officiel [fhs](https://www.pathname.com/fhs/
     
 -   /etc/profile
     
--   /etc/environment :contient les variables d’environnement
+-   /etc/environment : contient les variables d’environnement
     
--   /etc/apt/sources.list :repo de apt
+-   /etc/apt/sources.list : repo de apt

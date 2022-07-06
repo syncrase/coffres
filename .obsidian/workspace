@@ -1,29 +1,45 @@
 {
   "main": {
-    "id": "ee1a2ea10a04968a",
+    "id": "a98a8d34a1120bde",
     "type": "split",
     "children": [
       {
-        "id": "821f31cf781e4ef3",
+        "id": "c82047a1e09f69c9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Informatique/OS/Linux/Commandes clés/Installation logiciels.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cf26330afbc13df5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Informatique/OS/Linux/Système/Environnement.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9e6e10ef06f86dea",
+    "id": "4b0560a831a5e411",
     "type": "split",
     "children": [
       {
-        "id": "1a5883c25ed24ab0",
+        "id": "f33db573d589ae47",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2f343f236c5460",
+            "id": "1a5e25dab85a09f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,13 +47,13 @@
             }
           },
           {
-            "id": "ca5b812901af4bf7",
+            "id": "bd3c022d00ca2275",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "bookmarklet",
-                "matchingCase": false,
+                "query": "intelli",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -46,7 +62,15 @@
             }
           },
           {
-            "id": "0c90cd0713f611e8",
+            "id": "31692015736053fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2517d79d90a4fdf",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -57,22 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410
   },
   "right": {
-    "id": "dabc69d4d3fd1a1e",
+    "id": "a74c71e7d484bf82",
     "type": "split",
     "children": [
       {
-        "id": "fce91170911c03a0",
+        "id": "17d99e4146f8bdb2",
         "type": "tabs",
         "children": [
           {
-            "id": "63dcc03881e7d8a9",
+            "id": "ee35bd1e7e58669b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatique/OS/Linux/Commandes clés/Installation logiciels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,18 +109,53 @@
             }
           },
           {
-            "id": "5e542f3e07e12520",
+            "id": "8617f828d161725b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "22b789070c56fa58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "65893262bd847395",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d88d89b27f8967f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatique/OS/Linux/Commandes clés/Installation logiciels.md"
+              }
+            }
+          },
+          {
+            "id": "5d30067364915a62",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatique/OS/Linux/Commandes clés/Installation logiciels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32eb38617e79b290",
+            "id": "1fa92b70a3a6da58",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -104,68 +164,26 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "6fc44245a32cd48b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d1a67b32e76c688",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 510,
+    "width": 300,
     "collapsed": true
   },
-  "active": "821f31cf781e4ef3",
+  "active": "c82047a1e09f69c9",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Humain/Sattva, Rajas et Tamas.md",
-    "Humain/Marina Abramović.md",
-    "Informatique/Bookmarlet.md",
-    "1 dataview test 1.md",
-    "Informatique/Architecture/Vizualization IT/Ribbon.md",
-    "0 dataview test.md",
-    "Informatique/Editeurs de texte & IDE/Obsiddian/Obsidian.md",
-    "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md"
+    "Informatique/OS/Linux/Système/Environnement.md",
+    "Informatique/OS/Linux/Commandes clés/Installation logiciels.md",
+    "Informatique/Editeurs de texte & IDE/JetBrain/Raccourcis.md",
+    "Informatique/JetBrain/Raccourcis.md",
+    "Informatique/base de données/API/JPA.md",
+    "Informatique/Programmation/Langage/Java/Jhipster/JDL.md",
+    "Informatique/Programmation/Langage/Java/Spring/Core concepts.md",
+    "Informatique/Programmation/Langage/Java/Spring/spring boot/Sécurité.md",
+    "Informatique/Programmation/Langage/Java/Spring/spring boot/mongo et spring boot.md",
+    "Informatique/Programmation/Langage/Java/Spring/spring boot/Spring Boot.md"
   ]
 }

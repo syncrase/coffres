@@ -13,3 +13,5 @@ https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/
 https://deviq.com/principles/solid
 https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
 https://www.brainstobytes.com/tag/s-o-l-i-d-principles/
+
+https://www.infoq.com/fr/articles/injection-dependance-jakarta-cdi/

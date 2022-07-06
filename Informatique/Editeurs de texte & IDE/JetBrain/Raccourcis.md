@@ -22,6 +22,8 @@ tips
 
 Alt + Entrée pour vérifier une regex
 
+Double Ctrl : Run everything
+
 
 # Find
 
@@ -41,6 +43,7 @@ Alt + Entrée pour vérifier une regex
 -	Find usage : Press Alt+Maj+7 to quickly locate all occurrences of code referencing the symbol at the caret, no matter if the symbol is a part of a class, method, field, parameter, or another statement.
 - Ctrl + G : Go to line
 - Ctrl + F12 : Show list members
+- Ctrl + Maj + F7 pour afficher toutes les utilisation de la méthode. (Maj +) F3 pour les parcourir
 
 # Génération de boilerplates
 -	You can generate boilerplate code such as getters and setters and implement interface methods using code completion.
@@ -52,7 +55,7 @@ Alt + Entrée pour vérifier une regex
 # Code assistance
 -	Ctrl + Alt + O : organize import
 -	Alt + Entrée : show context action
--	Right click : localo history
+-	Right click : local history
 -	Ctrl + Q (View | Quick Documentation),
 -	Ctrl + Maj + I : Show implementation in a popup
 -	Ctrl + P (View | Parameter Info),
@@ -68,6 +71,7 @@ Alt + Entrée pour vérifier une regex
 ## Auto-complétion
 -	Complete statement and format : Ctrl + Maj + Entrée (met un point virgule, des accolades, ... et positionne le curseur)
 -	Ctrl + Space : autocomplétion
+-	Ctrl + J : current context suggestions
 -	Ctrl + Maj + Space : type-matching completion
 
 ## Sélection

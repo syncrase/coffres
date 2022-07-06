@@ -5,8 +5,10 @@ Utilisation d'obsidian pour toutes mes prises de notes.
 
 Les tags :
 - Un tag permet de créer un *groupe*, ou un ensemble, de notes. Donc, cela permet d'avoir une note appartenant à plusieurs catégories (ce que ne permet pas le tri par dossier)
-- La question se pose de la manière d'utiliser les tags (simples ou complexes, plugins pour les manipuler). Parceque parent/tag et tag ne correspondent pas au même 'tag'. Quand utiliser les tags complexes
-- Il existe un plugin pour afficher les tags complexes dans une structure de dossiers
+- La question se pose de la manière d'utiliser les tags (simples ou complexes, plugins pour les manipuler). Parceque parent/tag et tag ne correspondent pas au même 'tag'. Quand utiliser les tags complexes?
+  - Tag simple : représente un concept qui est exprimé dans la note
+  - Tag complexe : un sous tag permet la ségrégation conceptuelle du tag parent (ex. statut/fermé)
+- Il existe un plugin pour afficher les tags complexes dans une structure de dossiers: TagFolder
 
 Structure de dossier
 	pour classer
