@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ee1a2ea10a04968a",
+    "id": "41ce688ee94a2aa8",
     "type": "split",
     "children": [
       {
-        "id": "821f31cf781e4ef3",
+        "id": "09b5140d374dd168",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e6e10ef06f86dea",
+    "id": "a09097feecebc168",
     "type": "split",
     "children": [
       {
-        "id": "1a5883c25ed24ab0",
+        "id": "54064737d3e894f0",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2f343f236c5460",
+            "id": "7c9aa2e812f47940",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "ca5b812901af4bf7",
+            "id": "3615b0e86ccfeb04",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "bookmarklet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "0c90cd0713f611e8",
+            "id": "d81609c7d1f3afbc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "dabc69d4d3fd1a1e",
+    "id": "908b869a7ccd6587",
     "type": "split",
     "children": [
       {
-        "id": "fce91170911c03a0",
+        "id": "c87d07dda8b82e62",
         "type": "tabs",
         "children": [
           {
-            "id": "63dcc03881e7d8a9",
+            "id": "c9ebb41c0bab038e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "5e542f3e07e12520",
+            "id": "15bd8a981eaba609",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "32eb38617e79b290",
+            "id": "ba395df126d35a35",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,66 +106,20 @@
             }
           },
           {
-            "id": "6fc44245a32cd48b",
+            "id": "d35cfac023c9e48d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "1d1a67b32e76c688",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 510,
+    "width": 300,
     "collapsed": true
   },
-  "active": "821f31cf781e4ef3",
-  "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Humain/Sattva, Rajas et Tamas.md",
-    "Humain/Marina Abramović.md",
-    "Informatique/Bookmarlet.md",
-    "1 dataview test 1.md",
-    "Informatique/Architecture/Vizualization IT/Ribbon.md",
-    "0 dataview test.md",
-    "Informatique/Editeurs de texte & IDE/Obsiddian/Obsidian.md",
-    "Informatique/Programmation/Craft/References/Domain driven design - Tackling complexity in the heart of software.md"
-  ]
+  "active": "09b5140d374dd168",
+  "lastOpenFiles": []
 }
