@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0363c67ad041c408",
+        "id": "96aa2ba84c139f2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plantes/Arum maculatum.md",
+            "file": "Références.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "96aa2ba84c139f2e",
+        "id": "fb9438b2ab82f683",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vocabulaire/Feuille/Aciculaire.md",
+            "file": "Plantes/Castanea sativa.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulaire/Feuille/Aciculaire.md",
+                "file": "Références.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulaire/Feuille/Aciculaire.md",
+                "file": "Références.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulaire/Feuille/Aciculaire.md"
+                "file": "Références.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "aac238f9e99da051",
   "lastOpenFiles": [
-    "Vocabulaire/Feuille/Tronqué.md",
-    "Plantes/Rumex scutatus.md",
-    "Plantes/Arum.jpg",
-    "Plantes/Arum maculatum.md",
-    "Vocabulaire/Feuille/Deltoïde.md",
+    "Classification/Cypéracée.md",
+    "Plantes/Alnus glutinosa.md",
     "Groupements/Clé par forme du limbe.md",
-    "Vocabulaire/Feuille/Ensiforme.md",
+    "Plantes/Castanea sativa.md",
+    "Plantes/Celtis australis.md",
+    "Plantes/Viola sp..md",
+    "Plantes/Eucalyptus globosus.md",
     "Vocabulaire/Feuille/Falciforme.md",
-    "Vocabulaire/Feuille/Denté.md",
-    "Vocabulaire/Feuille/Mucroné.md"
+    "Plantes/Iris chamaeiris.md",
+    "Plantes/Olea europaea.md"
   ]
 }
