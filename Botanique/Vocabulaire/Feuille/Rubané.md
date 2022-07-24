@@ -5,4 +5,4 @@ aliases: rubanées
 
 #feuille/rubané 
 
-Forme du [[limbe]] de maintes monocotylédones
+Forme du [[Limbe]] de maintes monocotylédones

@@ -13,7 +13,7 @@ Le limbe [[Feuille|foliaire]] est en rapport avec la [[Feuille]] car le limbe pe
 Les parties d'une [[Feuille]] avec le limbe
 ![[parties-feuille.jpg]]
 Le [[pétiole]] attache le limbe de la [[Feuille]] à la [[tige]].
-La [[marge foliaire]] est le contour du limbe.
+La [[Marge foliaire]] est le contour du limbe.
 
 # Explications
 

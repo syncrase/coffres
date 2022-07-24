@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Groupements/Clé par forme du limbe.md",
+            "file": "Plantes/Arum maculatum.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "96aa2ba84c139f2e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vocabulaire/Feuille/Aciculaire.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groupements/Clé par forme du limbe.md",
+                "file": "Vocabulaire/Feuille/Aciculaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groupements/Clé par forme du limbe.md",
+                "file": "Vocabulaire/Feuille/Aciculaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groupements/Clé par forme du limbe.md"
+                "file": "Vocabulaire/Feuille/Aciculaire.md"
               }
             }
           }
@@ -127,17 +139,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0363c67ad041c408",
+  "active": "aac238f9e99da051",
   "lastOpenFiles": [
-    "Rumex scutatus.md",
+    "Vocabulaire/Feuille/Tronqué.md",
+    "Plantes/Rumex scutatus.md",
+    "Plantes/Arum.jpg",
+    "Plantes/Arum maculatum.md",
+    "Vocabulaire/Feuille/Deltoïde.md",
     "Groupements/Clé par forme du limbe.md",
-    "Deltoïde.md",
-    "Ensiforme.md",
-    "Falciforme.md",
-    "Denté.md",
-    "Mucroné.md",
-    "Tronqué.md",
-    "Orbiculaire.md",
-    "Sagitté.md"
+    "Vocabulaire/Feuille/Ensiforme.md",
+    "Vocabulaire/Feuille/Falciforme.md",
+    "Vocabulaire/Feuille/Denté.md",
+    "Vocabulaire/Feuille/Mucroné.md"
   ]
 }

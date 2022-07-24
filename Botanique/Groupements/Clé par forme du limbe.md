@@ -76,7 +76,7 @@ Lorsque le limbe n'est pas découpé, la feuille est dite entière et les qualif
 - Châtaignier ([[Castanea sativa]])
 
 > [!INFO] Limbe découpé
-> Lorsque le bord du limbe est profondément découpé, les découpures suivent la nervation qui est [[pennée]] ou [[palmée]] et les termes de description seront précédés du préfixe *pennati* ou *palmati* selon les cas.
+> Lorsque le bord du limbe est profondément découpé, les découpures suivent la nervation qui est [[Pennée]] ou [[palmée]] et les termes de description seront précédés du préfixe *pennati* ou *palmati* selon les cas.
 
 [[Lobée]]
 
