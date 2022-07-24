@@ -2,6 +2,12 @@
 aliases: pédalée, pédalé
 ---
 
-#feuille/pédalé 
+Forme de [[Feuille|feuille]] très rare.
+Du latin *pedatum* = pédale
 
-Forme de [[Feuille|feuille]] très rare
+#feuille/nervation/pédalé 
+Peut désigner la nervation
+
+#feuille/composée/pédalé 
+Ou la forme
+

@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "96aa2ba84c139f2e",
+        "id": "3213b3c49d651337",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Références.md",
+            "file": "Vocabulaire/Fide.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "fb9438b2ab82f683",
+        "id": "179bb7285f17cd1c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plantes/Castanea sativa.md",
+            "file": "Plantes/Vitis vinifera.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feuille/cupresoïde",
+                "query": "tag:#feuille/lobé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +66,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f0e13be1e1e34e3",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
               "state": {}
             }
           }
@@ -89,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Références.md",
+                "file": "Vocabulaire/Fide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Références.md",
+                "file": "Vocabulaire/Fide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +126,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -129,27 +137,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Références.md"
+                "file": "Vocabulaire/Fide.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aac238f9e99da051",
+  "active": "3213b3c49d651337",
   "lastOpenFiles": [
-    "Classification/Cypéracée.md",
-    "Plantes/Alnus glutinosa.md",
-    "Groupements/Clé par forme du limbe.md",
-    "Plantes/Castanea sativa.md",
-    "Plantes/Celtis australis.md",
-    "Plantes/Viola sp..md",
-    "Plantes/Eucalyptus globosus.md",
-    "Vocabulaire/Feuille/Falciforme.md",
-    "Plantes/Iris chamaeiris.md",
-    "Plantes/Olea europaea.md"
+    "Plantes/Vitis vinifera.md",
+    "Vocabulaire/Pédalifide.md",
+    "Plantes/Pasted image 20220724175631.png",
+    "Vocabulaire/Palmatilobé.md",
+    "Vocabulaire/Lobée.md",
+    "Vocabulaire/Fide.md",
+    "Plantes/Erodium malacoides.md",
+    "Vocabulaire/Partite.md",
+    "Vocabulaire/Pédalilobé.md",
+    "Vocabulaire/Feuille/Pédalée.md"
   ]
 }

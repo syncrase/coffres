@@ -2,7 +2,7 @@
 aliases: Châtaignier
 ---
 
-#feuille/denté 
+#feuille/limbe/denté 
 
 
 ![[Pasted image 20220724141211.png]]

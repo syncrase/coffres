@@ -2,7 +2,7 @@
 aliases: Massette
 ---
 
-#feuille/rubané
+#feuille/limbe/rubané
 
 ![[typha-latifolia.jpg]]
 

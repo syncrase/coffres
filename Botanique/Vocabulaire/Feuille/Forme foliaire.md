@@ -127,6 +127,8 @@ Les feuilles composés ont plusieurs folioles, ce qui les différencient des feu
 - [[Palmée]]
 - [[Pédalée]]
 
+![[Pasted image 20220724175631.png]]
+
 
 # Fixation de la [[Feuille]] à la tige
 

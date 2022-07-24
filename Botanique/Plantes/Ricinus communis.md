@@ -1,5 +1,5 @@
 
-#feuille/simple/palmée
+#feuille/simple/palmé
 
 ![[ricinus-communis-2af.jpg]]
 

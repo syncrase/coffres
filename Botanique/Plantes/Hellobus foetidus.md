@@ -2,8 +2,8 @@
 aliases: Hellébore
 ---
 
-#feuille/composée/palmée
-#feuille/[[Pédalée]]
+#feuille/composée/palmé
+#feuille/pédalé
 
 
 ![[helleborusniger_4.jpg]]

@@ -2,6 +2,6 @@
 aliases: Genévrier commun
 ---
 
-#feuille/aciculaire
+#feuille/limbe/aciculaire
 
 ![[juniperus-communis-fruit-600x450.jpg]]

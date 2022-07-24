@@ -7,6 +7,6 @@ aliases: Scrophularia canina
 
 
 
-#feuille/nervation/pennée 
+#feuille/nervation/penné 
 
 ![[Scrofulaire_chiens_feuille_dessous.jpg]]

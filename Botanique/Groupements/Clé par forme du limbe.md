@@ -76,13 +76,29 @@ Lorsque le limbe n'est pas découpé, la feuille est dite entière et les qualif
 - Châtaignier ([[Castanea sativa]])
 
 > [!INFO] Limbe découpé
-> Lorsque le bord du limbe est profondément découpé, les découpures suivent la nervation qui est [[Pennée]] ou [[palmée]] et les termes de description seront précédés du préfixe *pennati* ou *palmati* selon les cas.
+> Lorsque le bord du limbe est profondément découpé, les découpures suivent la nervation qui est [[Pennée]] ou [[Palmée]] et les termes de description seront précédés du préfixe *pennati* ou *palmati* selon les cas.
 
 [[Lobée]]
+- Erodium fausse-mauve ([[Erodium malacoides]])
+- Mauve commune ([[Malva sylvestris]])
+- Erable duret ([[Acer opalus]])
 
 [[Fide]]
+- Chêne pubescent ([[Quercus pubescent]])
+- Sycomore ([[Acer pseudoplatanus]])
+- Vigne ([[Vitis vinifera]])
 
 [[Partite]]
+- Passiflore ([[Passiflora sp.]])
+- Figuier ([[Ficus carica]])
+- Cinéraire ([[Senecio cineraria]])
 
 [[Séquée]]
+- Rue des garrigues ([[Ruta angustifolia]])
+- Chélidoine ([[Chelidonium majus]])
+- Maceron, grande ache ([[Smyrnium olusatrum]])
+- Achillée millefeuilles ([[Achillea millefolium]])
+- Fenouil ([[Foeniculum vulgare]])
+- Laser de France ([[Laserpitium gallicum]])
+- Chanvre ([[Cannabis sativa]])
 

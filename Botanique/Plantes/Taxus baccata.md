@@ -2,7 +2,7 @@
 aliases: If
 ---
 
-#feuille/aciculaire 
+#feuille/limbe/aciculaire 
 
 ![[if-taxus-baccata.jpg]]
 

@@ -2,7 +2,7 @@
 aliases: lupin
 ---
 
-#feuille/composée/palmée 
+#feuille/composée/palmé 
 
 ![[lupinuspolyphyllus_9.jpg]]
 

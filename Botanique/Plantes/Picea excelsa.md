@@ -2,6 +2,6 @@
 aliases: Epicéa d'europe
 ---
 
-#feuille/aciculaire
+#feuille/limbe/aciculaire
 
 ![[Epicea-rameau.jpg]]

@@ -2,7 +2,7 @@
 aliases: maronnier d'inde
 ---
 
-#feuille/composée/palmée
+#feuille/composée/palmé
 
 
 

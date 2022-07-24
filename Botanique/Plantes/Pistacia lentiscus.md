@@ -2,8 +2,8 @@
 aliases: pistachier
 ---
 
-#feuille/composée/pennée 
-#feuille/paripennée
+#feuille/composée/penné 
+#feuille/paripenné
 
 ![[Pistacia lentiscus 2.jpg]]
 

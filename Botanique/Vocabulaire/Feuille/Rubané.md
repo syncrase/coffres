@@ -3,6 +3,6 @@ aliases: rubanées
 ---
 
 
-#feuille/rubané 
+#feuille/limbe/rubané 
 
 Forme du [[Limbe]] de maintes monocotylédones

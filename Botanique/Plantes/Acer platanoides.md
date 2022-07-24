@@ -1,4 +1,4 @@
-#feuille/simple/palmée 
+#feuille/simple/palmé 
 
 
 # Description

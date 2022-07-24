@@ -2,7 +2,7 @@
 aliases: oxalide
 ---
 
-#feuille/composée/palmée
+#feuille/composée/palmé
 
 ![[i103878-oxalide-hm.webp]]
 

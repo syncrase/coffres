@@ -2,8 +2,8 @@
 aliases: mimosa
 ---
 
-#feuille/composée/pennée 
-#feuille/paripennée 
+#feuille/composée/penné 
+#feuille/paripenné 
 
 ![[index.jpg]]
 

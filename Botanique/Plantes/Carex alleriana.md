@@ -3,7 +3,7 @@ aliases: Laîche de Haller
 ---
 
 
-#feuille/rubané
+#feuille/limbe/rubané
 
 ![[qjeNVCysTcxJU6rZWTp4PibYZaQ.jpg]]
 

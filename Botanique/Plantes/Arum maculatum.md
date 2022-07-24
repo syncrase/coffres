@@ -2,7 +2,7 @@
 aliases: Arum
 ---
 
-#feuille/sagitté
+#feuille/limbe/sagitté
 
 ![[Arum.jpg]]
 

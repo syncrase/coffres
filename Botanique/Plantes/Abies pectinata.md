@@ -2,7 +2,7 @@
 aliases: Sapin pectiné
 ---
 
-#feuille/aciculaire
+#feuille/limbe/aciculaire
 
 ![[sapin_rameau.jpg]]
 

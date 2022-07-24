@@ -1,5 +1,5 @@
 ---
-aliases: Feuilles, foliaire, foliacé, feuille
+aliases: feuille, Feuilles, foliaire, foliacé, feuille
 ---
 
 Nom féminim

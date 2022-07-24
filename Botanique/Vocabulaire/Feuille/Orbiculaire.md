@@ -1,4 +1,4 @@
 
-#feuille/orbiculaire 
+#feuille/limbe/orbiculaire 
 
 [[Limbe]] aux contours arrondi

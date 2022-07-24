@@ -3,8 +3,8 @@ aliases: astragale
 ---
 
 
-#feuille/composée/pennée 
-#feuille/imparipennée
+#feuille/composée/penné 
+#feuille/imparipenné
 
 ![[astragalsesameus_5.jpg]]
 

@@ -2,7 +2,7 @@
 aliases: Oseille
 ---
 
-#feuille/hasté 
+#feuille/limbe/hasté 
 
 ![[rumex-scutatus.jpg]]
 

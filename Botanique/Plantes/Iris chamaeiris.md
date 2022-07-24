@@ -2,7 +2,7 @@
 aliases: Petit Iris
 ---
 
-#feuille/ensiforme 
+#feuille/limbe/ensiforme 
 
 
 ![[Pasted image 20220724140424.png]]

@@ -2,7 +2,7 @@
 aliases: Arbre de Judée
 ---
 
-#feuille/orbiculaire 
+#feuille/limbe/orbiculaire 
 
 
 ![[Pasted image 20220724140233.png]]
