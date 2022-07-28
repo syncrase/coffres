@@ -1,3 +1,4 @@
+#jhipster 
 
 
 # Les entités ne sont pas crées en BDD

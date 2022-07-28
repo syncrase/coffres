@@ -1,3 +1,5 @@
+#jhipster 
+
 # Problème lors de l'exécuter du registre
 
 `glob error [Error: EACCES: permission denied, scandir '/root/.npm/_logs']`

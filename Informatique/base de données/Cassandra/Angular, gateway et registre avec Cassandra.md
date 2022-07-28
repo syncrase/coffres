@@ -1,3 +1,5 @@
+#jhipster 
+
 Mise en place d'une architecture microservice angular, spring boot & cassandra.
 Pourquoi cassandra ? Parceque les [performances](https://www.datastax.com/products/compare/nosql-performance-benchmarks) sont meilleures.
 

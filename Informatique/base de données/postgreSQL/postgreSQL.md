@@ -39,8 +39,11 @@ Exemple de commandes internes à PostgreSQL :
  - \\c pour changer de base de données
 
 ## Utilisateurs
-ATTENTION 
- les majuscules ne sont pas gérées 
+> [!ERROR] ATTENTION 
+>  - les majuscules dans les noms ne sont pas gérées 
+>  - Les commandes doivent être en majuscule
+>  - le ';' est important
+
 
  - `postgres=# CREATE USER <nom_utilisateur>;` : Pour créer un user sans aucun droit
  - `\du` pour afficher les rôles

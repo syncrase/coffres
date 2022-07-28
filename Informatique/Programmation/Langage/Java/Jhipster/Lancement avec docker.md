@@ -1,3 +1,5 @@
+#jhipster 
+
 # Exécution du projet via docker-compose
 
 Pour exécuter le projet et toutes ses dépendances :
