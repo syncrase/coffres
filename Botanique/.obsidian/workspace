@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3213b3c49d651337",
+        "id": "ebf010e90a8843e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vocabulaire/Fide.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "179bb7285f17cd1c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plantes/Vitis vinifera.md",
+            "file": "Vocabulaire/Fleur/Fleur.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feuille/lobé",
+                "query": "sépale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulaire/Fide.md",
+                "file": "Vocabulaire/Fleur/Fleur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulaire/Fide.md",
+                "file": "Vocabulaire/Fleur/Fleur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulaire/Fide.md"
+                "file": "Vocabulaire/Fleur/Fleur.md"
               }
             }
           }
@@ -148,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3213b3c49d651337",
+  "active": "ebf010e90a8843e9",
   "lastOpenFiles": [
+    "Vocabulaire/Feuille/Limbe.md",
+    "Vocabulaire/Fleur/Fleur.md",
     "Plantes/Vitis vinifera.md",
-    "Vocabulaire/Pédalifide.md",
+    "Vocabulaire/Fleur/pétale.md",
+    "Vocabulaire/Fleur/sépale.md",
+    "Vocabulaire/Fleur/tépale.md",
+    "Vocabulaire/Feuille/Fide.md",
+    "Vocabulaire/Feuille/Pédalifide.md",
     "Plantes/Pasted image 20220724175631.png",
-    "Vocabulaire/Palmatilobé.md",
-    "Vocabulaire/Lobée.md",
-    "Vocabulaire/Fide.md",
-    "Plantes/Erodium malacoides.md",
-    "Vocabulaire/Partite.md",
-    "Vocabulaire/Pédalilobé.md",
-    "Vocabulaire/Feuille/Pédalée.md"
+    "Vocabulaire/Feuille/Palmatilobé.md"
   ]
 }
